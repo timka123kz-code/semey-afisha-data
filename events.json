@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-09-29T16:37+05:00",
+ "updated": "2026-09-30T00:05+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -512,6 +512,26 @@
     "#город"
    ],
    "added": "first",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее продолжается ремонт городских дорог",
+   "url": "https://t.me/semeynewskzz/9402",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "f3614a8719ec",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-09-30",
    "calendar_url": null
   }
  ],

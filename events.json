@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-09-30T00:05+05:00",
+ "updated": "2026-09-30T15:22+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -107,6 +107,26 @@
    ],
    "added": "2026-09-27",
    "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB%3A+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9+%E2%80%94+%D0%90%D0%BA%D1%82%D0%BE%D0%B1%D0%B5&dates=20261004T120000Z%2F20261004T140000Z&details=https%3A%2F%2Fticketon.kz%2Fsports%2Fevent%2Ftckt2-fk-semey-fk-aktobe&location=%D0%90%D0%B1%D0%B0%D0%B9+%D0%90%D1%80%D0%B5%D0%BD%D0%B0"
+  },
+  {
+   "title": "В первую очередь тепло будет подано на объекты социальной сферы (детские сады, школы, медицинские учреждения).",
+   "url": "https://t.me/semeynewskzz/9403",
+   "source": "@semeynewskzz",
+   "category": "анонс",
+   "day": "2026-10-05",
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/pqRBdT3_3Jvkd8qgiIt8u7ot6ByL-TKPG-5SVZlVnWzE4YrzlS4v9oFqF33i9dTODjrvXptqhve86BnuGaivOn_HpiG89NKr0Xy630pJ4o5RNvbr2-x1RDfoCKC1Rpwm2t6Lmua_UGk0u_82xfMsEhvmfkTguf7OFfGm_yU_Btcy5uTecLRoGN_aMsodC6sSgrgx1zDuqStgV9tqv-TBGgi2s-6qd9fnxp2tSWhV-pv6girjmWcsHRD_KNmLVKAh3jBXah7xTZkfi1tRdCqMQeLKJdIkT4yuOr_SSy6ERfg6nkpkkLAUmx12kQenXFbmaxLdVGC2PCgOuFAiqkQAng.jpg",
+   "deadline": null,
+   "id": "03c638668938",
+   "emoji": "🧒",
+   "tags": [
+    "#детям"
+   ],
+   "added": "2026-09-30",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%92+%D0%BF%D0%B5%D1%80%D0%B2%D1%83%D1%8E+%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C+%D1%82%D0%B5%D0%BF%D0%BB%D0%BE+%D0%B1%D1%83%D0%B4%D0%B5%D1%82+%D0%BF%D0%BE%D0%B4%D0%B0%D0%BD%D0%BE+%D0%BD%D0%B0+%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B+%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D1%81%D1%84%D0%B5%D1%80%D1%8B+%28%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%B0%D0%B4%D1%8B%2C+%D1%88%D0%BA%D0%BE%D0%BB%D1%8B%2C+%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%83%D1%87%D1%80%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%29.&dates=20261005%2F20261006&details=https%3A%2F%2Ft.me%2Fsemeynewskzz%2F9403&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
   },
   {
    "title": "Елимай М — Арыс",
@@ -527,6 +547,86 @@
    "image": null,
    "deadline": null,
    "id": "f3614a8719ec",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-09-30",
+   "calendar_url": null
+  },
+  {
+   "title": "Семейдегі жаңа тұрғын үй жобасына $100 млн инвестиция салынады",
+   "url": "https://www.arnapress.kz/zhkh/242348-semeydegi-zha-a-t-r-yn-y-zhobasyna-100-mln-investiciya-salynady",
+   "source": "Arnapress",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "02d2a611c9d4",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-09-30",
+   "calendar_url": null
+  },
+  {
+   "title": "«Біз бүгін Семей қаласын одан әрі дамыту үшін өте маңызды инвестициялық жобалардың бірін бастағалы отырмыз. Қазіргі…",
+   "url": "https://t.me/abai_oblysynyn_akimdigi/41369",
+   "source": "@abai_oblysynyn_akimdigi",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/jKs-uYAe3udU5SRzvIszCn2LWlxfylz1mPwGvCYnvWWzpB82fYqQpwC-D3449a_p46CZOwEFRVgYoNGoOu3dSWz5HkoInY7Qox0sfvtXsoNuOGiSEX1nsm4zDIsCjPYreEXg8kVblKeTOlcg-DrpOgiPOSovMO5kzmRDmUsZHhdOkjcnxjh3W7NLXz5tdre-LyoPjf1XR0QuRRABuFPpLaaas1yZDrBXM5le5aeFFgMH3RHtPymvqU8mmGNdTz7xbPX8SZsTrdOWkRPC2zXhbDM7zxh26jeqQjAFoVYLl5H_XMBcU6glgdxZkptcPQlz8Cw5VOWFhvVKsL_kXCxCgQ.jpg",
+   "deadline": null,
+   "id": "31e501bdd329",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-09-30",
+   "calendar_url": null
+  },
+  {
+   "title": "В микрорайоне Карагайлы в Семее за счет иностранных инвестиций построят современный жилой комплекс",
+   "url": "https://t.me/abai_oblysynyn_akimdigi/41389",
+   "source": "@abai_oblysynyn_akimdigi",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "f5ec6329e683",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-09-30",
+   "calendar_url": null
+  },
+  {
+   "title": "В микрорайоне Карагайлы города Семей дан старт реализации крупного инвестиционного проекта по строительству…",
+   "url": "https://t.me/semeynewskzz/9404",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "af8d48413044",
    "emoji": "🏙",
    "tags": [
     "#город"

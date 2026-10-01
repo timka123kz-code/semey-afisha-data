@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-01T00:31+05:00",
+ "updated": "2026-10-01T15:48+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -612,6 +612,26 @@
     "#город"
    ],
    "added": "2026-09-30",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее благоустраивают дворовые территории жилых домов",
+   "url": "https://t.me/semeynewskzz/9407",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "60665fed35c4",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-01",
    "calendar_url": null
   }
  ],

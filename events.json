@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-01T15:48+05:00",
+ "updated": "2026-10-02T00:13+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -632,6 +632,26 @@
     "#город"
    ],
    "added": "2026-10-01",
+   "calendar_url": null
+  },
+  {
+   "title": "Здание ЦУМа в Семее обретает новый облик",
+   "url": "https://t.me/semeynewskzz/9411",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "ddbe819aea51",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-02",
    "calendar_url": null
   }
  ],

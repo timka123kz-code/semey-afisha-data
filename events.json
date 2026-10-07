@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-07T00:17+05:00",
+ "updated": "2026-10-08T00:41+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -629,6 +629,26 @@
     "#город"
    ],
    "added": "2026-10-07",
+   "calendar_url": null
+  },
+  {
+   "title": "Критерии отбора дворов для благоустройства назвал аким Семея",
+   "url": "https://www.arnapress.kz/zhkh/242398-kriterii-otbora-dvorov-dlya-blagoustroystva-nazval-akim-semeya",
+   "source": "Arnapress",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "d1bc1f0dd57f",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-08",
    "calendar_url": null
   }
  ],

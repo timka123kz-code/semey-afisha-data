@@ -1,32 +1,12 @@
 {
  "version": 1,
- "updated": "2026-10-08T16:13+05:00",
+ "updated": "2026-10-09T00:37+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
-  {
-   "title": "Елимай М — Арыс",
-   "url": "https://tickets.fcelimai.kz/ru/",
-   "source": "ФК «Елимай»",
-   "category": "футбол",
-   "day": "2026-10-08",
-   "time": "15:00",
-   "place": "Ушактар",
-   "price": null,
-   "extra": "24 тур",
-   "image": null,
-   "deadline": null,
-   "id": "ea0033757a1e",
-   "emoji": "⚽",
-   "tags": [
-    "#футбол"
-   ],
-   "added": "first",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%95%D0%BB%D0%B8%D0%BC%D0%B0%D0%B9+%D0%9C+%E2%80%94+%D0%90%D1%80%D1%8B%D1%81&dates=20261008T100000Z%2F20261008T120000Z&details=https%3A%2F%2Ftickets.fcelimai.kz%2Fru%2F&location=%D0%A3%D1%88%D0%B0%D0%BA%D1%82%D0%B0%D1%80"
-  },
   {
    "title": "Ән-байқауының ашылу салтанаты және әнші-композитордың өмірі мен шығармашылығына арналған «Ән бесік» театрландырылған…",
    "url": "https://t.me/semeyakimdigi/23548",
@@ -709,6 +689,26 @@
     "#зож"
    ],
    "added": "2026-10-08",
+   "calendar_url": null
+  },
+  {
+   "title": "На сегодняшний день основная подготовительная работа уже проведена. Между Социально – предпринимательской…",
+   "url": "https://t.me/semeynewskzz/9432",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "ac2bb53c67f4",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-09",
    "calendar_url": null
   }
  ],

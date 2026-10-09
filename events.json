@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-09T00:37+05:00",
+ "updated": "2026-10-09T16:12+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -704,6 +704,26 @@
    "image": null,
    "deadline": null,
    "id": "ac2bb53c67f4",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-09",
+   "calendar_url": null
+  },
+  {
+   "title": "Абай облысында күнбағыс қалдығын кәдеге жарататын өндіріс ашылады",
+   "url": "https://t.me/abai_oblysynyn_akimdigi/41729",
+   "source": "@abai_oblysynyn_akimdigi",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "489875c36422",
    "emoji": "🏙",
    "tags": [
     "#город"

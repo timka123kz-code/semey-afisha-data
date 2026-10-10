@@ -1,32 +1,12 @@
 {
  "version": 1,
- "updated": "2026-10-10T21:23+05:00",
+ "updated": "2026-10-11T01:18+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
-  {
-   "title": "Елимай — Актобе",
-   "url": "https://tickets.fcelimai.kz/ru/",
-   "source": "ФК «Елимай»",
-   "category": "футбол",
-   "day": "2026-10-10",
-   "time": "16:00",
-   "place": "Стадион «Спартак»",
-   "price": null,
-   "extra": "28 тур",
-   "image": null,
-   "deadline": null,
-   "id": "5ea42ff3842d",
-   "emoji": "⚽",
-   "tags": [
-    "#футбол"
-   ],
-   "added": "first",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%95%D0%BB%D0%B8%D0%BC%D0%B0%D0%B9+%E2%80%94+%D0%90%D0%BA%D1%82%D0%BE%D0%B1%D0%B5&dates=20261010T110000Z%2F20261010T130000Z&details=https%3A%2F%2Ftickets.fcelimai.kz%2Fru%2F&location=%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD+%C2%AB%D0%A1%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BA%C2%BB"
-  },
   {
    "title": "Управление по вопросам молодежной политики анонсировало массовый забег «ERTIS RUN» на 3 км., который состоится 11…",
    "url": "https://t.me/abainewskz/21677",

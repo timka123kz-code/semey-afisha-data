@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-10T00:12+05:00",
+ "updated": "2026-10-10T21:23+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -706,6 +706,26 @@
    "image": null,
    "deadline": null,
    "id": "6194611e7fc9",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-10",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее продолжается обновление фасадов жилых домов",
+   "url": "https://t.me/semeynewskzz/9442",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "66ce1979f363",
    "emoji": "🏙",
    "tags": [
     "#город"

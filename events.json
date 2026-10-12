@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-12T02:52+05:00",
+ "updated": "2026-10-12T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -651,6 +651,45 @@
     "#город"
    ],
    "added": "2026-10-10",
+   "calendar_url": null
+  },
+  {
+   "title": "На Международный фестиваль-конкурс \"Көзге Иртыш моңнары\" приглашают семейчан",
+   "url": "https://www.arnapress.kz/kultura/242419-na-mezhdunarodnyy-festival-konkurs-k-zge-irtysh-mo-nary-priglashayut-semeychan",
+   "source": "Arnapress",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://arnapress.kz/storage/articles/converted/17918017055310176_w.jpg",
+   "deadline": null,
+   "id": "f206567e20eb",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-10-12",
+   "calendar_url": null
+  },
+  {
+   "title": "В рамках акции «Абайға құрмет», реализуемой при поддержке Президента Касым-Жомарта Токаева, в посёлке Мирный ведётся…",
+   "url": "https://t.me/semeynewskzz/9448",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "38f029e50687",
+   "emoji": "🏙",
+   "tags": [
+    "#город",
+    "#акция"
+   ],
+   "added": "2026-10-12",
    "calendar_url": null
   }
  ],

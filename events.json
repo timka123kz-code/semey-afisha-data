@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-12T19:01+05:00",
+ "updated": "2026-10-13T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -209,6 +209,27 @@
    ],
    "added": "first",
    "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%95%D0%BB%D0%B8%D0%BC%D0%B0%D0%B9+%E2%80%94+%D0%9E%D0%BA%D0%B6%D0%B5%D1%82%D0%BF%D0%B5%D1%81&dates=20261031T100000Z%2F20261031T120000Z&details=https%3A%2F%2Ftickets.fcelimai.kz%2Fru%2F&location=%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD+%C2%AB%D0%A1%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BA%C2%BB"
+  },
+  {
+   "title": "Сольный стендап-концерт Темирлана Жалдыбаева в Семее",
+   "url": "https://sxodim.com/semey/event/solnyy-stendap-koncert-temirlana-zhaldybaeva-v-semee",
+   "source": "Sxodim",
+   "category": "стендап",
+   "day": "2026-10-31",
+   "time": "20:30",
+   "place": "Ресторан Kostër, ул. Момышулы, 31/33",
+   "price": null,
+   "extra": null,
+   "image": "https://sxodim.com/uploads/posts/2026/10/13/optimized/2e7258becb105570d16830cf62fec849_1522x570-q-85.jpg",
+   "deadline": null,
+   "id": "009661bd6017",
+   "emoji": "😂",
+   "tags": [
+    "#стендап",
+    "#концерт"
+   ],
+   "added": "2026-10-13",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%81%D1%82%D0%B5%D0%BD%D0%B4%D0%B0%D0%BF-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82+%D0%A2%D0%B5%D0%BC%D0%B8%D1%80%D0%BB%D0%B0%D0%BD%D0%B0+%D0%96%D0%B0%D0%BB%D0%B4%D1%8B%D0%B1%D0%B0%D0%B5%D0%B2%D0%B0+%D0%B2+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B5&dates=20261031T153000Z%2F20261031T173000Z&details=https%3A%2F%2Fsxodim.com%2Fsemey%2Fevent%2Fsolnyy-stendap-koncert-temirlana-zhaldybaeva-v-semee&location=%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD+Kost%C3%ABr%2C+%D1%83%D0%BB.+%D0%9C%D0%BE%D0%BC%D1%8B%D1%88%D1%83%D0%BB%D1%8B%2C+31%2F33"
   },
   {
    "title": "Шоу «Комики решают проблемы» в Cемее",
@@ -690,6 +711,46 @@
     "#акция"
    ],
    "added": "2026-10-12",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее строят четырёхэтажную школу BINOM на 1400 мест.",
+   "url": "https://t.me/abainewskz/21695",
+   "source": "@abainewskz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "521229495f5a",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-13",
+   "calendar_url": null
+  },
+  {
+   "title": "В г.Семей продолжается строительство новой школы образовательной сети BINOM, рассчитанной на 1400 учеников. Открытие…",
+   "url": "https://t.me/semeynewskzz/9451",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "35dcb4d60a5f",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-13",
    "calendar_url": null
   }
  ],

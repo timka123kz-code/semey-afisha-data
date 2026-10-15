@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-13T19:01+05:00",
+ "updated": "2026-10-15T07:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -752,9 +752,422 @@
    ],
    "added": "2026-10-13",
    "calendar_url": null
+  },
+  {
+   "title": "Вы спрашиваете – Arnapress выясняет: когда откроют проезд по Мухамедханова и что с ремонтом коллектора в Семее",
+   "url": "https://www.arnapress.kz/zhkh/242446-vy-sprashivaete-arnapress-vyyasnyaet-kogda-otkroyut-proezd-po-muhamedhanova-i-chto-s-remontom-kollektora-v-semee",
+   "source": "Arnapress",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "dc65953bb228",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-15",
+   "calendar_url": null
   }
  ],
- "films": [],
+ "films": [
+  {
+   "title": "Мальчишник vs Девичник: Соңғы түн",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388530/",
+   "first_day": null,
+   "release": "2026-10-15",
+   "genres": [
+    "комедия"
+   ],
+   "age": null
+  },
+  {
+   "title": "Уличный боец",
+   "url": "https://kz.kinoafisha.info/semey/movies/8381884/",
+   "first_day": null,
+   "release": "2026-10-22",
+   "genres": [
+    "боевик",
+    "драма"
+   ],
+   "age": null
+  },
+  {
+   "title": "Kesu",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388534/",
+   "first_day": null,
+   "release": "2026-10-15",
+   "genres": [
+    "боевик",
+    "комедия"
+   ],
+   "age": null
+  },
+  {
+   "title": "Происшествие в доме",
+   "url": "https://kz.kinoafisha.info/semey/movies/8381444/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "ужасы"
+   ],
+   "age": null
+  },
+  {
+   "title": "1+3",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388390/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "комедия"
+   ],
+   "age": null
+  },
+  {
+   "title": "Семь Пиратов",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388166/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "приключения"
+   ],
+   "age": null
+  },
+  {
+   "title": "Красная роза",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388391/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "драма"
+   ],
+   "age": null
+  },
+  {
+   "title": "Тайный дневник Верити",
+   "url": "https://kz.kinoafisha.info/semey/movies/8380363/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "мелодрама",
+    "триллер"
+   ],
+   "age": null
+  },
+  {
+   "title": "Обитель зла",
+   "url": "https://kz.kinoafisha.info/semey/movies/8382609/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "ужасы",
+    "боевик"
+   ],
+   "age": null
+  },
+  {
+   "title": "Подводная братва. На страже рифа",
+   "url": "https://kz.kinoafisha.info/semey/movies/8382932/",
+   "first_day": null,
+   "release": "2026-10-15",
+   "genres": [
+    "анимация",
+    "семейный"
+   ],
+   "age": null
+  },
+  {
+   "title": "25 теңге. Басты миссия",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388294/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "комедия",
+    "боевик"
+   ],
+   "age": null
+  },
+  {
+   "title": "Как приручить монстров: Рождественский переполох",
+   "url": "https://kz.kinoafisha.info/semey/movies/8387991/",
+   "first_day": null,
+   "release": "2026-10-15",
+   "genres": [
+    "анимация"
+   ],
+   "age": null
+  },
+  {
+   "title": "Сумерки. Сага. Новолуние",
+   "url": "https://kz.kinoafisha.info/semey/movies/7594752/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "фэнтези",
+    "мелодрама"
+   ],
+   "age": null
+  },
+  {
+   "title": "Руки вверх 2",
+   "url": "https://kz.kinoafisha.info/semey/movies/8382173/",
+   "first_day": null,
+   "release": "2026-10-15",
+   "genres": [
+    "биография"
+   ],
+   "age": null
+  },
+  {
+   "title": "Битва моторов",
+   "url": "https://kz.kinoafisha.info/semey/movies/8380091/",
+   "first_day": null,
+   "release": "2026-10-15",
+   "genres": [
+    "приключения",
+    "биография"
+   ],
+   "age": null
+  },
+  {
+   "title": "Приключения мамонтенка. В поисках мамы",
+   "url": "https://kz.kinoafisha.info/semey/movies/8371947/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "анимация",
+    "приключения"
+   ],
+   "age": null
+  },
+  {
+   "title": "Диггер",
+   "url": "https://kz.kinoafisha.info/semey/movies/8379744/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "комедия",
+    "драма"
+   ],
+   "age": null
+  },
+  {
+   "title": "Арахнид",
+   "url": "https://kz.kinoafisha.info/semey/movies/8387487/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "ужасы",
+    "триллер"
+   ],
+   "age": null
+  },
+  {
+   "title": "Царевна Несмеяна",
+   "url": "https://kz.kinoafisha.info/semey/movies/8382593/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "семейный",
+    "фэнтези"
+   ],
+   "age": null
+  },
+  {
+   "title": "Мой пёс Гохан",
+   "url": "https://kz.kinoafisha.info/semey/movies/8387091/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "приключения",
+    "комедия"
+   ],
+   "age": null
+  },
+  {
+   "title": "Чудо-юдо",
+   "url": "https://www.kinoafisha.info/movies/8372984/",
+   "first_day": null,
+   "release": "2026-10-22",
+   "genres": [
+    "семейный"
+   ],
+   "age": null
+  },
+  {
+   "title": "Морозко",
+   "url": "https://www.kinoafisha.info/movies/8378714/",
+   "first_day": null,
+   "release": "2026-10-22",
+   "genres": [
+    "семейный"
+   ],
+   "age": null
+  },
+  {
+   "title": "Клэйфейс",
+   "url": "https://www.kinoafisha.info/movies/8380853/",
+   "first_day": null,
+   "release": "2026-10-22",
+   "genres": [
+    "боевик",
+    "приключения"
+   ],
+   "age": null
+  },
+  {
+   "title": "Джуманджи: Тёмный уровень",
+   "url": "https://www.kinoafisha.info/movies/8386970/",
+   "first_day": null,
+   "release": "2026-10-22",
+   "genres": [
+    "ужасы",
+    "триллер"
+   ],
+   "age": null
+  },
+  {
+   "title": "Без оглядки",
+   "url": "https://www.kinoafisha.info/movies/8383592/",
+   "first_day": null,
+   "release": "2026-10-22",
+   "genres": [
+    "драма",
+    "комедия"
+   ],
+   "age": null
+  },
+  {
+   "title": "Остров забвения",
+   "url": "https://www.kinoafisha.info/movies/8385238/",
+   "first_day": null,
+   "release": "2026-10-22",
+   "genres": [
+    "боевик",
+    "приключения"
+   ],
+   "age": null
+  },
+  {
+   "title": "Чарли и Харпер",
+   "url": "https://www.kinoafisha.info/movies/8385416/",
+   "first_day": null,
+   "release": "2026-10-22",
+   "genres": [
+    "мелодрама"
+   ],
+   "age": null
+  },
+  {
+   "title": "Роллинг Лауд. Дикое веселье",
+   "url": "https://www.kinoafisha.info/movies/8387287/",
+   "first_day": null,
+   "release": "2026-10-22",
+   "genres": [
+    "комедия"
+   ],
+   "age": null
+  },
+  {
+   "title": "Сказка о потерянном времени",
+   "url": "https://www.kinoafisha.info/movies/8382875/",
+   "first_day": null,
+   "release": "2026-10-29",
+   "genres": [
+    "фэнтези"
+   ],
+   "age": null
+  },
+  {
+   "title": "Барашек Шон и чудище лохматое",
+   "url": "https://www.kinoafisha.info/movies/8383803/",
+   "first_day": null,
+   "release": "2026-10-29",
+   "genres": [
+    "анимация",
+    "комедия"
+   ],
+   "age": null
+  },
+  {
+   "title": "Фьорд",
+   "url": "https://www.kinoafisha.info/movies/8386115/",
+   "first_day": null,
+   "release": "2026-10-29",
+   "genres": [
+    "драма"
+   ],
+   "age": null
+  },
+  {
+   "title": "Цикл зверя",
+   "url": "https://www.kinoafisha.info/movies/8388091/",
+   "first_day": null,
+   "release": "2026-10-29",
+   "genres": [
+    "криминал",
+    "ужасы"
+   ],
+   "age": null
+  },
+  {
+   "title": "Синистер. Дом мертвых",
+   "url": "https://www.kinoafisha.info/movies/8387713/",
+   "first_day": null,
+   "release": "2026-10-29",
+   "genres": [
+    "ужасы"
+   ],
+   "age": null
+  },
+  {
+   "title": "Гнев улья",
+   "url": "https://www.kinoafisha.info/movies/8380690/",
+   "first_day": null,
+   "release": "2026-10-29",
+   "genres": [
+    "криминал",
+    "триллер"
+   ],
+   "age": null
+  },
+  {
+   "title": "Последнее проклятие",
+   "url": "https://www.kinoafisha.info/movies/8385580/",
+   "first_day": null,
+   "release": "2026-10-29",
+   "genres": [
+    "ужасы"
+   ],
+   "age": null
+  },
+  {
+   "title": "Де Голль. Часть 2. Свобода",
+   "url": "https://www.kinoafisha.info/movies/8387559/",
+   "first_day": null,
+   "release": "2026-10-29",
+   "genres": [
+    "биография",
+    "драма"
+   ],
+   "age": null
+  },
+  {
+   "title": "Кот в шляпе",
+   "url": "https://www.kinoafisha.info/movies/8375450/",
+   "first_day": null,
+   "release": "2026-11-05",
+   "genres": [
+    "приключения",
+    "анимация"
+   ],
+   "age": null
+  }
+ ],
  "cinemas": [
   {
    "name": "Qazyna Cinema",

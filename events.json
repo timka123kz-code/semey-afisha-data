@@ -1,32 +1,12 @@
 {
  "version": 1,
- "updated": "2026-10-15T19:01+05:00",
+ "updated": "2026-10-17T00:00+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
-  {
-   "title": "Ом",
-   "url": "https://afisha.yandex.kz/semey/theatre_show/om-russkii-dramaticheskii-teatr-im-dostoevskogo",
-   "source": "Яндекс Афиша",
-   "category": "театр",
-   "day": "2026-10-16",
-   "time": "18:30",
-   "place": "Русский драматический театр им. Достоевского",
-   "price": "от 2 000 тнг",
-   "extra": null,
-   "image": "https://avatars.mds.yandex.net/get-afishanew/4395007/7fa5fa96e6818e16a2dac468e12f7f81/1200x628_wmark_tickets",
-   "deadline": null,
-   "id": "7ff1cec1cffd",
-   "emoji": "🎭",
-   "tags": [
-    "#театр"
-   ],
-   "added": "first",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%9E%D0%BC&dates=20261016T133000Z%2F20261016T153000Z&details=https%3A%2F%2Fafisha.yandex.kz%2Fsemey%2Ftheatre_show%2Fom-russkii-dramaticheskii-teatr-im-dostoevskogo&location=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%82%D0%B5%D0%B0%D1%82%D1%80+%D0%B8%D0%BC.+%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
-  },
   {
    "title": "V S X V PRiNCE",
    "url": "https://semeyarena.kz/events/",

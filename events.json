@@ -1,73 +1,12 @@
 {
  "version": 1,
- "updated": "2026-10-17T00:00+05:00",
+ "updated": "2026-10-19T00:00+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
-  {
-   "title": "V S X V PRiNCE",
-   "url": "https://semeyarena.kz/events/",
-   "source": "Абай Арена",
-   "category": "концерт",
-   "day": "2026-10-18",
-   "time": null,
-   "place": "Абай Арена, мкр. Карагайлы, 39",
-   "price": null,
-   "extra": null,
-   "image": null,
-   "deadline": null,
-   "id": "7ad3f82bf335",
-   "emoji": "🎤",
-   "tags": [
-    "#концерт"
-   ],
-   "added": "first",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=V+S+X+V+PRiNCE&dates=20261018%2F20261019&details=https%3A%2F%2Fsemeyarena.kz%2Fevents%2F&location=%D0%90%D0%B1%D0%B0%D0%B9+%D0%90%D1%80%D0%B5%D0%BD%D0%B0%2C+%D0%BC%D0%BA%D1%80.+%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%B9%D0%BB%D1%8B%2C+39"
-  },
-  {
-   "title": "Salomon Trail 2026",
-   "url": "https://athletex.kz/competitions/SalomonTrail2026",
-   "source": "athletex.kz",
-   "category": "забег_рк",
-   "day": "2026-10-18",
-   "time": null,
-   "place": null,
-   "price": null,
-   "extra": "Іле Алатауындағы тау трейлі. Горный забег в Заилийском Алатау",
-   "image": null,
-   "deadline": null,
-   "id": "efffceb0328d",
-   "emoji": "🏃",
-   "tags": [
-    "#забеги_рк",
-    "#зож"
-   ],
-   "added": "2026-09-26",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Salomon+Trail+2026&dates=20261018%2F20261019&details=https%3A%2F%2Fathletex.kz%2Fcompetitions%2FSalomonTrail2026&location="
-  },
-  {
-   "title": "Елимай — Улытау",
-   "url": "https://tickets.fcelimai.kz/ru/",
-   "source": "ФК «Елимай»",
-   "category": "футбол",
-   "day": "2026-10-18",
-   "time": "16:00",
-   "place": "Стадион «Спартак»",
-   "price": null,
-   "extra": "23 тур",
-   "image": null,
-   "deadline": null,
-   "id": "ebc3cee8b30b",
-   "emoji": "⚽",
-   "tags": [
-    "#футбол"
-   ],
-   "added": "first",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%95%D0%BB%D0%B8%D0%BC%D0%B0%D0%B9+%E2%80%94+%D0%A3%D0%BB%D1%8B%D1%82%D0%B0%D1%83&dates=20261018T110000Z%2F20261018T130000Z&details=https%3A%2F%2Ftickets.fcelimai.kz%2Fru%2F&location=%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD+%C2%AB%D0%A1%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BA%C2%BB"
-  },
   {
    "title": "Елимай М — Тобыл М",
    "url": "https://tickets.fcelimai.kz/ru/",

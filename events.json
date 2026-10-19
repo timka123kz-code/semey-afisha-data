@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-19T00:00+05:00",
+ "updated": "2026-10-19T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -710,6 +710,24 @@
     "#город"
    ],
    "added": "2026-10-15",
+   "calendar_url": null
+  },
+  {
+   "title": "Семейде халықаралық Сабантой мерекесі өтеді",
+   "url": "https://www.arnapress.kz/kultura/242466-semeyde-haly-araly-sabantoy-merekesi-tedi",
+   "source": "Arnapress",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://arnapress.kz/storage/articles/converted/17924054055432775.jpg",
+   "deadline": null,
+   "id": "2246c2f379a4",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-10-19",
    "calendar_url": null
   }
  ],

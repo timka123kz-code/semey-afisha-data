@@ -1,70 +1,12 @@
 {
  "version": 1,
- "updated": "2026-10-23T00:00+05:00",
+ "updated": "2026-10-26T00:00+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
-  {
-   "title": "Turkistan Marathon",
-   "url": "https://www.almaty-marathon.kz/ru/",
-   "source": "begaem.com",
-   "category": "забег_рк",
-   "day": "2026-10-25",
-   "time": null,
-   "place": "Туркестан",
-   "price": null,
-   "extra": "42,2 км / 21,1 км / 10 км / 3 км",
-   "image": null,
-   "deadline": null,
-   "id": "24a384bdad09",
-   "emoji": "🏃",
-   "tags": [
-    "#забеги_рк"
-   ],
-   "added": "2026-09-26",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Turkistan+Marathon&dates=20261025%2F20261026&details=https%3A%2F%2Fwww.almaty-marathon.kz%2Fru%2F&location=%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD"
-  },
-  {
-   "title": "Мерекелік бағдарлама «Мәңгілік жаса, қыран елім – Қазақстан!» атты концертпен жалғасады. Концертте Өмірқұл Айниязов…",
-   "url": "https://t.me/semeyakimdigi/23649",
-   "source": "@semeyakimdigi",
-   "category": "анонс",
-   "day": "2026-10-25",
-   "time": "10:30",
-   "place": null,
-   "price": null,
-   "extra": null,
-   "image": "https://cdn4.telesco.pe/file/aNUtp69GVlYIEnwuTSx8pGNr03muhpxeacz9CLvxlbCsCr9gZpvPRyz1m9x_thaE5tqrCNDpcB-iTCkXA7YDRa1hhHpbLrVrJC_44eA1eG6jkaQ96i5tAnv-sh99wt7DeW_z1ZO-s404oNiTi5l4KoNhFtT5oYfVVz9oTwJnrp_Jn108q_BuDwsDwli2hjTxlrx2QSB7hxGGiBIDxhyeT_7cFEgFCSKaS1rz-hdaxa5J2EOn79sXNKy_qg4IG9_Lkx9WxBHQXCRsiEob_z26Y2pVhEv050DXJR0GYMY9jfbpSKrQ_zgIbDvTQnF8tqRKpaxSkJTo_AUBMHI2C_yDwQ.jpg",
-   "deadline": null,
-   "id": "d384616ec904",
-   "emoji": "🎤",
-   "tags": [
-    "#концерт"
-   ],
-   "added": "2026-10-22",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%9C%D0%B5%D1%80%D0%B5%D0%BA%D0%B5%D0%BB%D1%96%D0%BA+%D0%B1%D0%B0%D2%93%D0%B4%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B0+%C2%AB%D0%9C%D3%99%D2%A3%D0%B3%D1%96%D0%BB%D1%96%D0%BA+%D0%B6%D0%B0%D1%81%D0%B0%2C+%D2%9B%D1%8B%D1%80%D0%B0%D0%BD+%D0%B5%D0%BB%D1%96%D0%BC+%E2%80%93+%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%81%D1%82%D0%B0%D0%BD%21%C2%BB+%D0%B0%D1%82%D1%82%D1%8B+%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%D0%BF%D0%B5%D0%BD+%D0%B6%D0%B0%D0%BB%D2%93%D0%B0%D1%81%D0%B0%D0%B4%D1%8B.+%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%D1%82%D0%B5+%D3%A8%D0%BC%D1%96%D1%80%D2%9B%D2%B1%D0%BB+%D0%90%D0%B9%D0%BD%D0%B8%D1%8F%D0%B7%D0%BE%D0%B2%E2%80%A6&dates=20261025T053000Z%2F20261025T073000Z&details=https%3A%2F%2Ft.me%2Fsemeyakimdigi%2F23649&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
-  },
-  {
-   "title": "Құрметті Семей қаласының тұрғындары мен қонақтары! Республика күніне орай 25 қазан күні сағат 10:30-да Бейбітшілік…",
-   "url": "https://t.me/semeyakimdigi/23650",
-   "source": "@semeyakimdigi",
-   "category": "анонс",
-   "day": "2026-10-25",
-   "time": "10:30",
-   "place": null,
-   "price": null,
-   "extra": null,
-   "image": "https://cdn4.telesco.pe/file/fG9rqW5PNM95pvbBh3YSU3wkIcohrPbO7bsk5eFvyguDfIWNt9z7yp7VU1J8M4xo65rabnNqt30wyePlYLCg60c89diVrgnjrb2BdMdHubkIE4_vCZvj4Xvw1aTwq68tmfAL7jA9V5Pk9m463l_f0xbdL4tUEapqMqkDvGW5KQjKVlJAnCbCXNk4n2lx2Tsn1GpNCameat_9bpXBDFRb-UdKDdMnJWCCGkOLkU61DEnEsYXS5Wdr6LXlZ6pJ60eUVqmZaJ-BYhqYq-AWlN9_3-FbHIc-nFOTUE9V_WGX4cN37A94CZ4LSCoDLKyjendqoDq0j_zYqjqLfgOTzBqaCg.jpg",
-   "deadline": null,
-   "id": "9a02e36b743f",
-   "emoji": "🔸",
-   "tags": [],
-   "added": "2026-10-22",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D2%9A%D2%B1%D1%80%D0%BC%D0%B5%D1%82%D1%82%D1%96+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9+%D2%9B%D0%B0%D0%BB%D0%B0%D1%81%D1%8B%D0%BD%D1%8B%D2%A3+%D1%82%D2%B1%D1%80%D2%93%D1%8B%D0%BD%D0%B4%D0%B0%D1%80%D1%8B+%D0%BC%D0%B5%D0%BD+%D2%9B%D0%BE%D0%BD%D0%B0%D2%9B%D1%82%D0%B0%D1%80%D1%8B%21+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%BA%D2%AF%D0%BD%D1%96%D0%BD%D0%B5+%D0%BE%D1%80%D0%B0%D0%B9+25+%D2%9B%D0%B0%D0%B7%D0%B0%D0%BD+%D0%BA%D2%AF%D0%BD%D1%96+%D1%81%D0%B0%D2%93%D0%B0%D1%82+10%3A30-%D0%B4%D0%B0+%D0%91%D0%B5%D0%B9%D0%B1%D1%96%D1%82%D1%88%D1%96%D0%BB%D1%96%D0%BA%E2%80%A6&dates=20261025T053000Z%2F20261025T073000Z&details=https%3A%2F%2Ft.me%2Fsemeyakimdigi%2F23650&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
-  },
   {
    "title": "Тұрсынбек Қабатовтың әзіл кеші Семейде (29 қазан)",
    "url": "https://sxodim.com/semey/event/t-rsynbek-abatovty-zil-keshi-semeyde",

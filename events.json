@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-28T07:01+05:00",
+ "updated": "2026-10-28T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -869,6 +869,26 @@
     "#город"
    ],
    "added": "2026-10-22",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее активно ведутся работы по реконструкции центральной площади. Проект направлен на обновление городской…",
+   "url": "https://t.me/semeynewskzz/9530",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "8a6a358f333c",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-10-28",
    "calendar_url": null
   }
  ],

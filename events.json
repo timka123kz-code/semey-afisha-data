@@ -1,53 +1,12 @@
 {
  "version": 1,
- "updated": "2026-10-29T07:01+05:00",
+ "updated": "2026-10-30T00:00+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
-  {
-   "title": "Тұрсынбек Қабатовтың әзіл кеші Семейде (29 қазан)",
-   "url": "https://sxodim.com/semey/event/t-rsynbek-abatovty-zil-keshi-semeyde",
-   "source": "Sxodim",
-   "category": "концерт",
-   "day": "2026-10-29",
-   "time": "18:00",
-   "place": "Абай атындағы театр, Мухамедханов көш., 6",
-   "price": null,
-   "extra": null,
-   "image": "https://sxodim.com/uploads/posts/2026/07/08/optimized/aec5df4835f216e19d52571873ec707c_1522x570-q-85.jpg",
-   "deadline": null,
-   "id": "958aa46ff5da",
-   "emoji": "🎤",
-   "tags": [
-    "#концерт",
-    "#театр"
-   ],
-   "added": "first",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A2%D2%B1%D1%80%D1%81%D1%8B%D0%BD%D0%B1%D0%B5%D0%BA+%D2%9A%D0%B0%D0%B1%D0%B0%D1%82%D0%BE%D0%B2%D1%82%D1%8B%D2%A3+%D3%99%D0%B7%D1%96%D0%BB+%D0%BA%D0%B5%D1%88%D1%96+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%B4%D0%B5+%2829+%D2%9B%D0%B0%D0%B7%D0%B0%D0%BD%29&dates=20261029T130000Z%2F20261029T150000Z&details=https%3A%2F%2Fsxodim.com%2Fsemey%2Fevent%2Ft-rsynbek-abatovty-zil-keshi-semeyde&location=%D0%90%D0%B1%D0%B0%D0%B9+%D0%B0%D1%82%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B+%D1%82%D0%B5%D0%B0%D1%82%D1%80%2C+%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4%D1%85%D0%B0%D0%BD%D0%BE%D0%B2+%D0%BA%D3%A9%D1%88.%2C+6"
-  },
-  {
-   "title": "Футзал: Семей — Барса",
-   "url": "https://fcsemey.com/match/view/fk-semey-team-ru/",
-   "source": "МФК «Семей»",
-   "category": "футзал",
-   "day": "2026-10-29",
-   "time": "20:00",
-   "place": "Абай Арена",
-   "price": null,
-   "extra": null,
-   "image": null,
-   "deadline": null,
-   "id": "66a0b626e7f4",
-   "emoji": "⚽",
-   "tags": [
-    "#футзал"
-   ],
-   "added": "2026-10-29",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB%3A+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9+%E2%80%94+%D0%91%D0%B0%D1%80%D1%81%D0%B0&dates=20261029T150000Z%2F20261029T170000Z&details=https%3A%2F%2Ffcsemey.com%2Fmatch%2Fview%2Ffk-semey-team-ru%2F&location=%D0%90%D0%B1%D0%B0%D0%B9+%D0%90%D1%80%D0%B5%D0%BD%D0%B0"
-  },
   {
    "title": "Айна Мусина - stand up концерт «Приоритеты»",
    "url": "https://ticketon.kz/stand-up/event/tckt2-ayna-musina-stand-up-kontsert-prioritety-semey",

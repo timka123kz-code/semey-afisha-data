@@ -1,91 +1,12 @@
 {
  "version": 1,
- "updated": "2026-10-31T19:01+05:00",
+ "updated": "2026-11-01T00:00+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
-  {
-   "title": "В рамках Всемирного дня борьбы с инсультом Управление здравоохранения области Абай организует познавательное…",
-   "url": "https://t.me/semeynewskzz/9550",
-   "source": "@semeynewskzz",
-   "category": "анонс",
-   "day": "2026-10-31",
-   "time": null,
-   "place": null,
-   "price": null,
-   "extra": null,
-   "image": "https://cdn4.telesco.pe/file/mJvv-OIj9bpWHK4lp5RW1xcBVEWDG5MU9-JZ3W-fYNwISCCGCdBFu8Rev6Skc5_nP1_c5MrRQjeNGorRz-aWNr_yudfuhbvge-Ja4INsoZ3LY3K0l5Wzj-zsEh5WPWPWqfO0jCPgby6eDZGlkAGmii2zQg_flwInvoXG8N2_XmFujSnlJ0xouteTl8uxOFTT0JKEAPocKa5p6Dveqne7-RTN3Gf1KHXwYzD34ho24tjkmClNO4xuAHgWW8aZegjcby-csErpMNTEu5mbHui_WmFVtBkxo_vBAHxmJD-3qt2ChIMKXKGza4jXfwOXuB2Rc2Gskfd6Gdnbhgg_SLmLqg.jpg",
-   "deadline": null,
-   "id": "41ede9f97c0b",
-   "emoji": "🔸",
-   "tags": [],
-   "added": "2026-10-30",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%92+%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85+%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BD%D1%8F+%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D1%8B+%D1%81+%D0%B8%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%BE%D0%BC+%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8+%D0%90%D0%B1%D0%B0%D0%B9+%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D1%83%D0%B5%D1%82+%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%E2%80%A6&dates=20261031%2F20261101&details=https%3A%2F%2Ft.me%2Fsemeynewskzz%2F9550&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
-  },
-  {
-   "title": "Елимай — Окжетпес",
-   "url": "https://tickets.fcelimai.kz/ru/",
-   "source": "ФК «Елимай»",
-   "category": "футбол",
-   "day": "2026-10-31",
-   "time": "15:00",
-   "place": "Стадион «Спартак»",
-   "price": null,
-   "extra": "30 тур",
-   "image": null,
-   "deadline": null,
-   "id": "d0792bbec382",
-   "emoji": "⚽",
-   "tags": [
-    "#футбол"
-   ],
-   "added": "first",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%95%D0%BB%D0%B8%D0%BC%D0%B0%D0%B9+%E2%80%94+%D0%9E%D0%BA%D0%B6%D0%B5%D1%82%D0%BF%D0%B5%D1%81&dates=20261031T100000Z%2F20261031T120000Z&details=https%3A%2F%2Ftickets.fcelimai.kz%2Fru%2F&location=%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD+%C2%AB%D0%A1%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BA%C2%BB"
-  },
-  {
-   "title": "Вечер Halloween чёрного юмора",
-   "url": "https://afisha.yandex.kz/semey/standup/vecher-halloween-chiornogo-iumora",
-   "source": "Яндекс Афиша",
-   "category": "стендап",
-   "day": "2026-10-31",
-   "time": "19:00",
-   "place": "Koster",
-   "price": "от 3 000 тнг",
-   "extra": null,
-   "image": "https://avatars.mds.yandex.net/get-afishanew/4768735/3d864054036ae3220730be33242aaafb/1200x628_wmark_tickets",
-   "deadline": null,
-   "id": "606047ae5433",
-   "emoji": "😂",
-   "tags": [
-    "#стендап"
-   ],
-   "added": "2026-10-15",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%92%D0%B5%D1%87%D0%B5%D1%80+Halloween+%D1%87%D1%91%D1%80%D0%BD%D0%BE%D0%B3%D0%BE+%D1%8E%D0%BC%D0%BE%D1%80%D0%B0&dates=20261031T140000Z%2F20261031T160000Z&details=https%3A%2F%2Fafisha.yandex.kz%2Fsemey%2Fstandup%2Fvecher-halloween-chiornogo-iumora&location=Koster"
-  },
-  {
-   "title": "Сольный стендап-концерт Темирлана Жалдыбаева в Семее",
-   "url": "https://sxodim.com/semey/event/solnyy-stendap-koncert-temirlana-zhaldybaeva-v-semee",
-   "source": "Sxodim",
-   "category": "стендап",
-   "day": "2026-10-31",
-   "time": "20:30",
-   "place": "Ресторан Kostër, ул. Момышулы, 31/33",
-   "price": null,
-   "extra": null,
-   "image": "https://sxodim.com/uploads/posts/2026/10/13/optimized/2e7258becb105570d16830cf62fec849_1522x570-q-85.jpg",
-   "deadline": null,
-   "id": "009661bd6017",
-   "emoji": "😂",
-   "tags": [
-    "#стендап",
-    "#концерт"
-   ],
-   "added": "2026-10-13",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D1%81%D1%82%D0%B5%D0%BD%D0%B4%D0%B0%D0%BF-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82+%D0%A2%D0%B5%D0%BC%D0%B8%D1%80%D0%BB%D0%B0%D0%BD%D0%B0+%D0%96%D0%B0%D0%BB%D0%B4%D1%8B%D0%B1%D0%B0%D0%B5%D0%B2%D0%B0+%D0%B2+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B5&dates=20261031T153000Z%2F20261031T173000Z&details=https%3A%2F%2Fsxodim.com%2Fsemey%2Fevent%2Fsolnyy-stendap-koncert-temirlana-zhaldybaeva-v-semee&location=%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD+Kost%C3%ABr%2C+%D1%83%D0%BB.+%D0%9C%D0%BE%D0%BC%D1%8B%D1%88%D1%83%D0%BB%D1%8B%2C+31%2F33"
-  },
   {
    "title": "Қазақша стендап",
    "url": "https://afisha.yandex.kz/semey/standup/kazaksha-stendap",

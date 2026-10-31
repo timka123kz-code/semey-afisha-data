@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-31T00:00+05:00",
+ "updated": "2026-10-31T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -845,6 +845,27 @@
     "#город"
    ],
    "added": "2026-10-30",
+   "calendar_url": null
+  },
+  {
+   "title": "В новом административно-деловом центре города Семей в рамках акции «Абайға құрмет» продолжается строительство…",
+   "url": "https://t.me/semeynewskzz/9561",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/dH9_x8TzRsaUzaO0blDRmVIVBMbyOhhNkIzIAXTMDc1yAnj2rv9vBy_YpsPzAqEjqYWQFtiEc9i81TsJ5C4bAWvZoZVZsj4yBGMJ27udTp3WPdqgIgMHnfm0RbcTuyT4LBkEtxQn-vkZHu-KhYDgiprxeHw61YKpW-bIRJmc6KA8hhXNC5INKQNLu3FhQeFZV2OhMIheU0-YTql-2Dc0vxCLA_lx8F22-_w24VsV5cpVIpEgocjGI9_Dp37f_Y-N1zGxEGKQjDf4Pd0vN4LEHWiFsGXyvCYWe_ovgllgOjf9BHZtpdBJAn4KgkfIfTlpeIDpTAqU9U-G56ara9qP-g.jpg",
+   "deadline": null,
+   "id": "f02b9b78639d",
+   "emoji": "🏙",
+   "tags": [
+    "#город",
+    "#акция"
+   ],
+   "added": "2026-10-31",
    "calendar_url": null
   }
  ],

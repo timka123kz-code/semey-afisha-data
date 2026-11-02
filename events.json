@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-02T00:00+05:00",
+ "updated": "2026-11-02T12:30+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -44,6 +44,7 @@
    "emoji": "🏃",
    "tags": [
     "#забеги_рк",
+    "#старшим",
     "#зож"
    ],
    "added": "2026-09-26",
@@ -83,8 +84,9 @@
    "image": null,
    "deadline": null,
    "id": "e106812a6baa",
-   "emoji": "🎓",
+   "emoji": "💡",
    "tags": [
+    "#полезное",
     "#учёба"
    ],
    "added": "first",
@@ -582,6 +584,7 @@
    "id": "1d024bdc3527",
    "emoji": "🛍",
    "tags": [
+    "#полезное",
     "#ярмарка"
    ],
    "added": "2026-10-20",

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-05T07:02+05:00",
+ "updated": "2026-11-05T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -27,6 +27,26 @@
    ],
    "added": "first",
    "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A8%D0%BE%D1%83+%C2%AB%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8+%D1%80%D0%B5%D1%88%D0%B0%D1%8E%D1%82+%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B%C2%BB+%D0%B2+C%D0%B5%D0%BC%D0%B5%D0%B5&dates=20261105T153000Z%2F20261105T173000Z&details=https%3A%2F%2Fsxodim.com%2Fsemey%2Fevent%2Fshou-komiki-reshayut-problemy-v-cemee&location=%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D0%B1%D0%B0%D1%80+Bayleis%2C+%D1%83%D0%BB.+%D0%A3%D1%80%D0%B0%D0%BD%D1%85%D0%B0%D0%B0%D0%B5%D0%B2%D0%B0%2C+48"
+  },
+  {
+   "title": "Футзал: Семей — Аят",
+   "url": "https://ticketon.kz/sports/event/tckt2-fk-semey-fk-ayat",
+   "source": "МФК «Семей»",
+   "category": "футзал",
+   "day": "2026-11-06",
+   "time": "19:00",
+   "place": "Абай Арена",
+   "price": null,
+   "extra": "Суперлига 2026/27· 11-й тур",
+   "image": null,
+   "deadline": null,
+   "id": "86d3b268acc4",
+   "emoji": "⚽",
+   "tags": [
+    "#футзал"
+   ],
+   "added": "2026-11-05",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB%3A+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9+%E2%80%94+%D0%90%D1%8F%D1%82&dates=20261106T140000Z%2F20261106T160000Z&details=https%3A%2F%2Fticketon.kz%2Fsports%2Fevent%2Ftckt2-fk-semey-fk-ayat&location=%D0%90%D0%B1%D0%B0%D0%B9+%D0%90%D1%80%D0%B5%D0%BD%D0%B0"
   },
   {
    "title": "City Run Almaty",
@@ -927,6 +947,46 @@
     "#город"
    ],
    "added": "2026-11-04",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее благоустраивают привокзальную площадь железнодорожного вокзала",
+   "url": "https://t.me/abai_oblysynyn_akimdigi/42773",
+   "source": "@abai_oblysynyn_akimdigi",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/cdt64yoIgaukedu_GrWMe92aH-TEqV3O8hnPWiEjtLdLI_FxAvh7wLMxmYDkkrJCgql-lCiH1kVEzdcXuHPbEYfjMIhVrCdb1cnF84-9JwFLVQmuRJt4O1vKa-LhXYF-XhQBvnuTjaMYZmEhMtwVrtvdN-LXQNZt3ea2eeVtPeeW2ZrV3CEimgCMzf4foUBsSNUYrrPzUTIoeYDAPBmu3fv5G405h5vNkxHpspaw2BemL1p0CAg36LT9o_BG4I54Ti6RbcrBF0meHd9SqceOEgmumtOrzqo-rF7vlyWyPeNZUBNutuAKGP2iA2VjBFMU4HZC1IxVPaj9us_wfojFwQ.jpg",
+   "deadline": null,
+   "id": "053a367616c4",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-05",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее обновляют привокзальную площадь: завершить благоустройство планируют за две недели",
+   "url": "https://t.me/semeynewskzz/9583",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/AwNdqGW-P3V0nyMowmj6Pjg3UpyBpH3TOGjrGtl5jH_RgYWllJqnZwXNpXcX2wKjnQCeFItQfTE2tkOsRcxCvmAMZY3TMdJ2cP44pRXPamUD0WBy031r1k9p6hXv8mV6qJi3rvxnIbyYPfm39Bv6EULZISavi8FuFfQJdvOpXieJfwE7cao58YkbNnJynaf7d4yBLh68PdwG_YyYWstXkQdL8E-iwNvOh72hcLJxye6T9DhN9i4qlSxVo-Vs_zoOcdpczkBCiH-swFrIdQEeO4vN24JsOEWv9N1Itjpt9FDPVuxjo6K0GhTRdYhjnF17v2JUtHfoD0Dn0438Ca-_fA.jpg",
+   "deadline": null,
+   "id": "776c25828ed3",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-05",
    "calendar_url": null
   }
  ],

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-06T00:00+05:00",
+ "updated": "2026-11-06T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -966,6 +966,45 @@
     "#город"
    ],
    "added": "2026-11-05",
+   "calendar_url": null
+  },
+  {
+   "title": "Фонд \"Четыре лапы плюс\" празднует День рождения: семейчан приглашают в гости к питомцам приюта",
+   "url": "https://www.arnapress.kz/obshchestvo/242561-fond-chetyre-lapy-plyus-prazdnuet-den-rozhdeniya-semeychan-priglashayut-v-gosti-k-pitomcam-priyuta",
+   "source": "Arnapress",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://arnapress.kz/storage/articles/converted/17939520255200176_w.jpg",
+   "deadline": null,
+   "id": "d5d1a139f828",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-11-06",
+   "calendar_url": null
+  },
+  {
+   "title": "2026 жылғы маусымда «Елімай» футбол орталығының тәрбиеленушілері Қазақстан Премьер-лигасында негізгі команданың…",
+   "url": "https://t.me/fc_elimai/6998",
+   "source": "@fc_elimai",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/ERvTLTxpOpxrgsKOCm7n8VjduwYNyQ5XpEicM1bh35XIA3e52ol2xtHwpyIQzFL4hxRnh5O4r70sySVOhFHhATwP_E6kmxWQcNJO5VNMmCD3FMKaophvyNsqIHm99sieHJq4iW-GRH41sWiieq61Kn5RFDy0vPAaB0SiN1JH-X2QF2KdAbZ4uc47KcB4WSiOixAxY2Rb9GdcG7yUJy7mF39x1XR8qYyUFm9BLyy6ZRqnh7z3kQh6GS_S6jliHY2NN26zVEl9b497VNWp66j5v72-_BAh6BD0BTrmcUSBwAg5eABmdesHs35kDfOFlI2tYCCeSwOWzpEPw3-6rSstvw.jpg",
+   "deadline": null,
+   "id": "09d6b44f9bf8",
+   "emoji": "⚽",
+   "tags": [
+    "#футбол",
+    "#театр"
+   ],
+   "added": "2026-11-06",
    "calendar_url": null
   }
  ],

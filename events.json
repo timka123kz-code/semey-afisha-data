@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-07T00:00+05:00",
+ "updated": "2026-11-07T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -985,6 +985,47 @@
     "#театр"
    ],
    "added": "2026-11-06",
+   "calendar_url": null
+  },
+  {
+   "title": "Семейде аумағы 1600 шаршы метр болатын мұз айдыны ашылады Семей қаласының Орталық саябағында жалпы аумағы 1600 шаршы…",
+   "url": "https://t.me/semeyakimdigi/23729",
+   "source": "@semeyakimdigi",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "66a88399b5e5",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-07",
+   "calendar_url": null
+  },
+  {
+   "title": "Премьер-министр подписал постановление о создании специальной экономической зоны «Семей»",
+   "url": "https://t.me/semeynewskzz/9596",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/jHGU1_xEDCbJuxtq6gMH8OyJsIa4OpPSVWQBkLt4kGnNo62BmB92bNsOKUUDyoCIZ4wRYfzZv4_OercURSpmO_eeWm-IiiWoN905h2HDh_ibtgQg4tEUoC3-dBg8OdFz-zJG1IuGVN8FIXnpVGURUt5wQsbmyG4FMjRsggOU5F-LQfW7my-KFiTcY8rdTseIRUKLyJwRKXZhwknwikHO_wm2lhUAq_SpVILl_XjApei-iSabU78wxCKbTitWTNhI42vX9raWtgrYB2FcFbcB2FEJNTYd8YA89YVqLnFD8d2ZejvUJ2zaPTg-9FAiVTzk52LezefoV9mKfGEBT6GW6Q.jpg",
+   "deadline": null,
+   "id": "aa4f5a258bc2",
+   "emoji": "🏙",
+   "tags": [
+    "#город",
+    "#театр"
+   ],
+   "added": "2026-11-07",
    "calendar_url": null
   }
  ],

@@ -1,34 +1,12 @@
 {
  "version": 1,
- "updated": "2026-11-07T19:01+05:00",
+ "updated": "2026-11-09T00:00+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
-  {
-   "title": "City Run Almaty",
-   "url": "https://www.almaty-marathon.kz/ru/",
-   "source": "begaem.com",
-   "category": "забег_рк",
-   "day": "2026-11-08",
-   "time": null,
-   "place": "Алматы",
-   "price": null,
-   "extra": "10 км / скандинавская ходьба 5 км",
-   "image": null,
-   "deadline": null,
-   "id": "8ddb6674196a",
-   "emoji": "🏃",
-   "tags": [
-    "#забеги_рк",
-    "#старшим",
-    "#зож"
-   ],
-   "added": "2026-09-26",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=City+Run+Almaty&dates=20261108%2F20261109&details=https%3A%2F%2Fwww.almaty-marathon.kz%2Fru%2F&location=%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B"
-  },
   {
    "title": "Open StandUp",
    "url": "https://afisha.yandex.kz/semey/standup/open-standup",

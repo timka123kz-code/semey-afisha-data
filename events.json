@@ -1,12 +1,32 @@
 {
  "version": 1,
- "updated": "2026-11-09T00:00+05:00",
+ "updated": "2026-11-09T07:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
+  {
+   "title": "10 қараша күні Семей қаласында Абай облысындағы ең ауқымды IT іс-шаралардың бірі — DIGITAL ABAI FORUM 2026 өтеді.",
+   "url": "https://t.me/abaiaqparatkz/34737",
+   "source": "@abaiaqparatkz",
+   "category": "анонс",
+   "day": "2026-11-10",
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/gRTsbCM-rWZp5GVu4FXgPVC44RsefTjEN-LrPg3bUDgLC4ytn7y4pSQF4UlHn0ky-h30UzMcXCAo-D4kVMv-IsL2C40udHoLGA1LsGjfz_Kx8nBrYGdWXZKyRyc9fhYLKsRlRmPosiJ0YujOGtvSx6jCUPo5kqEhZbCbsAXX0szdqlwGQ8qyumoAL7WphG1aKGB_EZNVz_Oso0bueg3NZkNFPCDdEr60npEZFamrOIExgtSFHIjAxMJWoY7qOvNfgIWk0KveJdh7ENBHE4jv_yT1VQgWoNS_2y0lUz2i-PLEh2qrnOPM8HOBlZbfzQIJLK-dbKWegWukEo7cEt458g.jpg",
+   "deadline": null,
+   "id": "f873675201c3",
+   "emoji": "💻",
+   "tags": [
+    "#it"
+   ],
+   "added": "2026-11-09",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=10+%D2%9B%D0%B0%D1%80%D0%B0%D1%88%D0%B0+%D0%BA%D2%AF%D0%BD%D1%96+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9+%D2%9B%D0%B0%D0%BB%D0%B0%D1%81%D1%8B%D0%BD%D0%B4%D0%B0+%D0%90%D0%B1%D0%B0%D0%B9+%D0%BE%D0%B1%D0%BB%D1%8B%D1%81%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B+%D0%B5%D2%A3+%D0%B0%D1%83%D2%9B%D1%8B%D0%BC%D0%B4%D1%8B+IT+%D1%96%D1%81-%D1%88%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D1%80%D0%B4%D1%8B%D2%A3+%D0%B1%D1%96%D1%80%D1%96+%E2%80%94+DIGITAL+ABAI+FORUM+2026+%D3%A9%D1%82%D0%B5%D0%B4%D1%96.&dates=20261110%2F20261111&details=https%3A%2F%2Ft.me%2Fabaiaqparatkz%2F34737&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
+  },
   {
    "title": "Open StandUp",
    "url": "https://afisha.yandex.kz/semey/standup/open-standup",

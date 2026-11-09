@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-09T07:01+05:00",
+ "updated": "2026-11-09T19:02+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1024,6 +1024,64 @@
     "#театр"
    ],
    "added": "2026-11-07",
+   "calendar_url": null
+  },
+  {
+   "title": "Семейде DIGITAL ABAI 2026 өңірлік форумы өтеді",
+   "url": "https://www.arnapress.kz/obshchestvo/242567-semeyde-digital-abai-2026-irlik-forumy-tedi",
+   "source": "Arnapress",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://arnapress.kz/storage/articles/converted/17942108106974775.jpg",
+   "deadline": null,
+   "id": "fc6a8b564173",
+   "emoji": "💻",
+   "tags": [
+    "#it"
+   ],
+   "added": "2026-11-09",
+   "calendar_url": null
+  },
+  {
+   "title": "⛸️В Семее откроется каток площадью 1600 квадратных метров",
+   "url": "https://semeyinfo.kz/news/v-semee-otkroetsya-katok-ploshchadyu-1600-kvadratnyh-metrov",
+   "source": "Semey Info",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "eb004d4e1084",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-09",
+   "calendar_url": null
+  },
+  {
+   "title": "«2027 жылы бокс, дзюдо, таэквондо, үстел теннисі және киберспорт секілді танымал спорт түрлерінен әлем чемпионатын…",
+   "url": "https://t.me/abaiaqparatkz/34745",
+   "source": "@abaiaqparatkz",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "a4c52a44a041",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-11-09",
    "calendar_url": null
   }
  ],

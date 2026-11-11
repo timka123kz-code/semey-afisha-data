@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-11T00:00+05:00",
+ "updated": "2026-11-11T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1062,6 +1062,26 @@
    "emoji": "🔸",
    "tags": [],
    "added": "2026-11-09",
+   "calendar_url": null
+  },
+  {
+   "title": "В области Абай в новом учебном году 8 школ пройдут реновацию, откроются 2 новые школы",
+   "url": "https://semeyinfo.kz/news/v-oblasti-abaj-v-novom-uchebnom-godu-8-shkol-projdut-renovatsiyu-otkroyutsya-2-novye-shkoly",
+   "source": "Semey Info",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "7321f50cd793",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-11",
    "calendar_url": null
   }
  ],

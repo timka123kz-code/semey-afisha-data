@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-11T19:01+05:00",
+ "updated": "2026-11-12T07:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1097,6 +1097,16 @@
    "age": null
   },
   {
+   "title": "Бауыр",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388870/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "комедия"
+   ],
+   "age": null
+  },
+  {
    "title": "Заманback 2",
    "url": "https://kz.kinoafisha.info/semey/movies/8388630/",
    "first_day": null,
@@ -1107,115 +1117,8 @@
    "age": null
   },
   {
-   "title": "Кот в шляпе",
-   "url": "https://kz.kinoafisha.info/semey/movies/8375450/",
-   "first_day": null,
-   "release": "2026-11-05",
-   "genres": [
-    "приключения",
-    "анимация"
-   ],
-   "age": null
-  },
-  {
-   "title": "Шымыр",
-   "url": "https://kz.kinoafisha.info/semey/movies/8388695/",
-   "first_day": null,
-   "release": null,
-   "genres": [
-    "боевик"
-   ],
-   "age": null
-  },
-  {
-   "title": "Кит: Во тьме глубин",
-   "url": "https://kz.kinoafisha.info/semey/movies/8386569/",
-   "first_day": null,
-   "release": null,
-   "genres": [
-    "приключения",
-    "драма"
-   ],
-   "age": null
-  },
-  {
-   "title": "Остров забвения",
-   "url": "https://kz.kinoafisha.info/semey/movies/8385238/",
-   "first_day": null,
-   "release": null,
-   "genres": [
-    "боевик",
-    "приключения"
-   ],
-   "age": null
-  },
-  {
-   "title": "Клэйфейс",
-   "url": "https://kz.kinoafisha.info/semey/movies/8380853/",
-   "first_day": null,
-   "release": null,
-   "genres": [
-    "боевик",
-    "приключения"
-   ],
-   "age": null
-  },
-  {
-   "title": "Пункт назначения: Мост №13",
-   "url": "https://kz.kinoafisha.info/semey/movies/8386416/",
-   "first_day": null,
-   "release": "2026-11-05",
-   "genres": [
-    "ужасы",
-    "триллер"
-   ],
-   "age": null
-  },
-  {
-   "title": "Плетёный муж",
-   "url": "https://www.kinoafisha.info/movies/8372997/",
-   "first_day": null,
-   "release": "2026-11-12",
-   "genres": [
-    "комедия"
-   ],
-   "age": null
-  },
-  {
-   "title": "Приключения пингвиненка",
-   "url": "https://www.kinoafisha.info/movies/8382160/",
-   "first_day": null,
-   "release": "2026-11-12",
-   "genres": [
-    "семейный"
-   ],
-   "age": null
-  },
-  {
-   "title": "Психопатка",
-   "url": "https://www.kinoafisha.info/movies/8380362/",
-   "first_day": null,
-   "release": "2026-11-12",
-   "genres": [
-    "ужасы",
-    "триллер"
-   ],
-   "age": null
-  },
-  {
-   "title": "Айтматов",
-   "url": "https://www.kinoafisha.info/movies/8388168/",
-   "first_day": null,
-   "release": "2026-11-12",
-   "genres": [
-    "биография",
-    "драма"
-   ],
-   "age": null
-  },
-  {
    "title": "Скрудж",
-   "url": "https://www.kinoafisha.info/movies/8383674/",
+   "url": "https://kz.kinoafisha.info/semey/movies/8383674/",
    "first_day": null,
    "release": "2026-11-12",
    "genres": [
@@ -1224,8 +1127,19 @@
    "age": null
   },
   {
+   "title": "Кот в шляпе",
+   "url": "https://kz.kinoafisha.info/semey/movies/8375450/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "приключения",
+    "анимация"
+   ],
+   "age": null
+  },
+  {
    "title": "Рамаяна",
-   "url": "https://www.kinoafisha.info/movies/8385353/",
+   "url": "https://kz.kinoafisha.info/semey/movies/8385353/",
    "first_day": null,
    "release": "2026-11-12",
    "genres": [
@@ -1235,44 +1149,24 @@
    "age": null
   },
   {
-   "title": "Навар",
-   "url": "https://www.kinoafisha.info/movies/8381020/",
+   "title": "Қара түйін",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388874/",
    "first_day": null,
-   "release": "2026-11-12",
+   "release": null,
    "genres": [
-    "драма",
-    "криминал"
-   ],
-   "age": null
-  },
-  {
-   "title": "Проклятие Сальмокджи",
-   "url": "https://www.kinoafisha.info/movies/8385681/",
-   "first_day": null,
-   "release": "2026-11-12",
-   "genres": [
-    "ужасы",
+    "детектив",
     "триллер"
    ],
    "age": null
   },
   {
-   "title": "Инфлюенсер",
-   "url": "https://www.kinoafisha.info/movies/8387777/",
+   "title": "Пункт назначения: Мост №13",
+   "url": "https://kz.kinoafisha.info/semey/movies/8386416/",
    "first_day": null,
-   "release": "2026-11-12",
+   "release": null,
    "genres": [
-    "ужасы"
-   ],
-   "age": null
-  },
-  {
-   "title": "Безликие. Кошмар джунглей",
-   "url": "https://www.kinoafisha.info/movies/8386672/",
-   "first_day": null,
-   "release": "2026-11-12",
-   "genres": [
-    "ужасы"
+    "ужасы",
+    "триллер"
    ],
    "age": null
   },
@@ -1288,6 +1182,16 @@
    "age": null
   },
   {
+   "title": "Лес",
+   "url": "https://www.kinoafisha.info/movies/8382095/",
+   "first_day": null,
+   "release": "2026-11-19",
+   "genres": [
+    "триллер"
+   ],
+   "age": null
+  },
+  {
    "title": "Турбозавры. Суперфильм",
    "url": "https://www.kinoafisha.info/movies/8382904/",
    "first_day": null,
@@ -1298,12 +1202,12 @@
    "age": null
   },
   {
-   "title": "Лес",
-   "url": "https://www.kinoafisha.info/movies/8382095/",
+   "title": "Увидеть всё",
+   "url": "https://www.kinoafisha.info/movies/8387794/",
    "first_day": null,
    "release": "2026-11-19",
    "genres": [
-    "триллер"
+    "документальный"
    ],
    "age": null
   },
@@ -1315,16 +1219,6 @@
    "genres": [
     "драма",
     "исторический"
-   ],
-   "age": null
-  },
-  {
-   "title": "Увидеть всё",
-   "url": "https://www.kinoafisha.info/movies/8387794/",
-   "first_day": null,
-   "release": "2026-11-19",
-   "genres": [
-    "документальный"
    ],
    "age": null
   },
@@ -1403,17 +1297,6 @@
    "age": null
   },
   {
-   "title": "Идеальный шторм",
-   "url": "https://www.kinoafisha.info/movies/8386231/",
-   "first_day": null,
-   "release": "2026-11-26",
-   "genres": [
-    "боевик",
-    "приключения"
-   ],
-   "age": null
-  },
-  {
    "title": "Шкатулка проклятия. Зло внутри",
    "url": "https://www.kinoafisha.info/movies/8388457/",
    "first_day": null,
@@ -1421,6 +1304,17 @@
    "genres": [
     "ужасы",
     "детектив"
+   ],
+   "age": null
+  },
+  {
+   "title": "Идеальный шторм",
+   "url": "https://www.kinoafisha.info/movies/8386231/",
+   "first_day": null,
+   "release": "2026-11-26",
+   "genres": [
+    "боевик",
+    "приключения"
    ],
    "age": null
   },
@@ -1453,6 +1347,38 @@
    "release": "2026-11-26",
    "genres": [
     "драма"
+   ],
+   "age": null
+  },
+  {
+   "title": "Знакомство с Факерами: Новая глава",
+   "url": "https://www.kinoafisha.info/movies/8381951/",
+   "first_day": null,
+   "release": "2026-12-03",
+   "genres": [
+    "комедия"
+   ],
+   "age": null
+  },
+  {
+   "title": "Бумажный тигр",
+   "url": "https://www.kinoafisha.info/movies/8379857/",
+   "first_day": null,
+   "release": "2026-12-03",
+   "genres": [
+    "криминал",
+    "драма"
+   ],
+   "age": null
+  },
+  {
+   "title": "Жестокая ночь 2",
+   "url": "https://www.kinoafisha.info/movies/8382076/",
+   "first_day": null,
+   "release": "2026-12-03",
+   "genres": [
+    "боевик",
+    "комедия"
    ],
    "age": null
   }

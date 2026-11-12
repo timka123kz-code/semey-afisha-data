@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-12T07:01+05:00",
+ "updated": "2026-11-12T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1082,6 +1082,87 @@
     "#город"
    ],
    "added": "2026-11-11",
+   "calendar_url": null
+  },
+  {
+   "title": "Абай облысында балық аулауға уақытша тыйым салынады",
+   "url": "https://www.arnapress.kz/ekologiya/242595-abay-oblysynda-baly-aulau-a-ua-ytsha-tyyym-salynady",
+   "source": "Arnapress",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "8b7e50f56387",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-12",
+   "calendar_url": null
+  },
+  {
+   "title": "☄️В Семее строится Дворец единоборств",
+   "url": "https://semeyinfo.kz/news/v-semee-stroitsya-dvorets-edinoborstv",
+   "source": "Semey Info",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "2c05006c822e",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-12",
+   "calendar_url": null
+  },
+  {
+   "title": "Новые больницы, стадион и тысячи квадратных метров жилья: что строят в области Абай",
+   "url": "https://semeyinfo.kz/news/novye-bolnitsy-stadion-i-tysyachi-kvadratnyh-metrov-zhilya-chto-stroyat-v-oblasti-abaj",
+   "source": "Semey Info",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "0a024462a233",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-12",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее в рамках акции «Абайға құрмет», инициированной при поддержке Главы государства Касым-Жомарта Токаева…",
+   "url": "https://t.me/semeynewskzz/9621",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/LjHxaZBgYVvpslJGxX4qbnL7GdFCrwlVbhHkHcaq7HSf_E3EPax-OW-hb0UAPft5qtvnKxBv_Zq9wpLDg9WspgcPw9PWiE5pAMpjxLeMahqsNhvTqH16Pf3MW2KqGPbZlD-5y2o2-SZR_5NfwGs2mdnJ6m4pdPlE0zC_SrvIHpcGtmFuhGv9TQkuGka68xYgq1WQp8RQpiKR7_AFZPXZ4EXaYnr3HX97VvZ0ZtNxUY1oR16xP2AnJ7Qy_f6Bb1i5t1vUkrIpPRPSEflF9DWjWGhIzE2N3cxg0SGb95eCkkzvKugWufxdZb9c5rsmvgnaumC7YgovtJUznHnbwPPCGw.jpg",
+   "deadline": null,
+   "id": "094fae450009",
+   "emoji": "🏙",
+   "tags": [
+    "#город",
+    "#акция"
+   ],
+   "added": "2026-11-12",
    "calendar_url": null
   }
  ],

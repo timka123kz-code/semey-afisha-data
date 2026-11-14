@@ -1,32 +1,12 @@
 {
  "version": 1,
- "updated": "2026-11-14T00:00+05:00",
+ "updated": "2026-11-15T00:00+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
   "channel": "https://t.me/semeyafisha"
  },
  "events": [
-  {
-   "title": "Open StandUp",
-   "url": "https://afisha.yandex.kz/semey/standup/open-standup",
-   "source": "Яндекс Афиша",
-   "category": "стендап",
-   "day": "2026-11-14",
-   "time": "19:00",
-   "place": "Tooman Lounge",
-   "price": "от 2 500 тнг",
-   "extra": null,
-   "image": "https://yastatic-net.ru/s3/afisha-frontend/static/_/a0224851b291e01da55a.png",
-   "deadline": null,
-   "id": "e1e83b36784f",
-   "emoji": "😂",
-   "tags": [
-    "#стендап"
-   ],
-   "added": "2026-11-04",
-   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Open+StandUp&dates=20261114T140000Z%2F20261114T160000Z&details=https%3A%2F%2Fafisha.yandex.kz%2Fsemey%2Fstandup%2Fopen-standup&location=Tooman+Lounge"
-  },
   {
    "title": "Өнер Қырандары Семей қаласында",
    "url": "https://topbilet.kz/ru/event/ner-yrandary-semey-alasynda-5",

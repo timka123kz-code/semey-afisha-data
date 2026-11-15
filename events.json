@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-15T00:00+05:00",
+ "updated": "2026-11-15T07:03+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1203,6 +1203,26 @@
    "emoji": "🔸",
    "tags": [],
    "added": "2026-11-13",
+   "calendar_url": null
+  },
+  {
+   "title": "В Центральном парке Семея планируют открыть новую ледовую площадку площадью 1600 квадратных метров.",
+   "url": "https://t.me/gorodsemey/1027",
+   "source": "@gorodsemey",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/bhL81GQMEx4Tnx6gnLwDKFrIl9j_2vm22nKJJ2sQgRI49162ZGZ8ibga_1cn2Bgpt0huIOnWohZBYRMKRkRLT9h-dTjxTT8UWFZQCltfFS6-vbmO5cmLLpYlAha1hVrnG7f8OHyI2vpx_6qoo6HmLjG-TUNB6gHwSEYw1fZAwA8y6m5XBYsrLIrwYseUkEoVxeI5gKiNNVfCPrAF6qdan2dmnWBlNu8pDqpfNQcOCH0IZDJrjN5oFMuAPibSa6dyLUkP2wVrhA2EpofI-Mxk_T3Bj2iXwDAE8x1p2LP2YMoHHOVBANbzB_mpl2y_U37LXzZFbTV5RcIIngQ5cfpTAg.jpg",
+   "deadline": null,
+   "id": "f6cc55055142",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-15",
    "calendar_url": null
   }
  ],

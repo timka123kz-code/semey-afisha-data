@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-16T07:03+05:00",
+ "updated": "2026-11-16T19:03+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -48,6 +48,62 @@
    ],
    "added": "2026-11-04",
    "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A2%D1%80%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9+%D1%81%D1%82%D0%B5%D0%BD%D0%B4%D0%B0%D0%BF&dates=20261128T140000Z%2F20261128T160000Z&details=https%3A%2F%2Fafisha.yandex.kz%2Fsemey%2Fstandup%2Ftroynoy-stendap&location=Koster"
+  },
+  {
+   "title": "Қасым-Жомарт Тоқаевқа 2026 жылы 29 қарашада өтетін барлық деңгейдегі мәслихат депутаттарының кезектен тыс сайлауына…",
+   "url": "https://t.me/abaiaqparatkz/34852",
+   "source": "@abaiaqparatkz",
+   "category": "анонс",
+   "day": "2026-11-29",
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/ia0Ca1RHlF-702irGEkmCKNssoTzZZVfki2WGAxxiH5if6qtp0CxLGztqNha5ckO3RgqtqLukRUXRP3OeUSBiaZ0Y9hunSNegXpX8KbpQxEzbUYU0pE0UWL8cPhpgnp6s7GnZ8u9fAhKokkIdurBUvXrXWdb4cXP-W3szFRKMevG2EODZUNbdIk-m1c158QPYwL9uuUdBk7HGfYA5ONRAkg3xDUQkTKEhQRBHMEs3y3gZrzx16aev0M0tUH5MWVpFkOsF-cTxEDopnirn8irpZ27Ix18dJlhRNcWAa1rnHKHOUp9Ot4yh-5Fi08z82MA3l-tDT2xkF40LPmH66NNfQ.jpg",
+   "deadline": null,
+   "id": "23748ce56933",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-11-16",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D2%9A%D0%B0%D1%81%D1%8B%D0%BC-%D0%96%D0%BE%D0%BC%D0%B0%D1%80%D1%82+%D0%A2%D0%BE%D2%9B%D0%B0%D0%B5%D0%B2%D2%9B%D0%B0+2026+%D0%B6%D1%8B%D0%BB%D1%8B+29+%D2%9B%D0%B0%D1%80%D0%B0%D1%88%D0%B0%D0%B4%D0%B0+%D3%A9%D1%82%D0%B5%D1%82%D1%96%D0%BD+%D0%B1%D0%B0%D1%80%D0%BB%D1%8B%D2%9B+%D0%B4%D0%B5%D2%A3%D0%B3%D0%B5%D0%B9%D0%B4%D0%B5%D0%B3%D1%96+%D0%BC%D3%99%D1%81%D0%BB%D0%B8%D1%85%D0%B0%D1%82+%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3+%D0%BA%D0%B5%D0%B7%D0%B5%D0%BA%D1%82%D0%B5%D0%BD+%D1%82%D1%8B%D1%81+%D1%81%D0%B0%D0%B9%D0%BB%D0%B0%D1%83%D1%8B%D0%BD%D0%B0%E2%80%A6&dates=20261129%2F20261130&details=https%3A%2F%2Ft.me%2Fabaiaqparatkz%2F34852&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
+  },
+  {
+   "title": "5 декабря на паркете «Арены» состоится ответный матч 1/8 финала Лиги чемпионов УЕФА!",
+   "url": "https://t.me/semeynewskzz/9633",
+   "source": "@semeynewskzz",
+   "category": "анонс",
+   "day": "2026-12-05",
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/mib1N4vixuiynZZaeVzfDKLRlUiZdQsjxtWZCqvlhTR-ePD9DW3tirfj3ijtWe5Ysujq8oDVD0PWzIAxHNRk0buIQgco8gxhJcaswygPrWRTioVQE_oCO3aYxCx8hTcw_B-dTwqBHw1qA-BJezvPUJlPUCnAesstXiqrKQXIoH236-zpmaHz6MqYshXtgA2P5miQIC_o9v6rlYiGBUMK-yC0DaOBrZcdpK2jxQ-6jDPTjZpFUDNhcKXgXvMpn3wDSq-iViv7L-lxyRKkI6S_vNVtBWru_B2B0CMOwzy0hv1IX2A1vrV3y4ruiTGaydilLmU0P727rdEwgFVX93eUAA.jpg",
+   "deadline": null,
+   "id": "458e84782b50",
+   "emoji": "⚽",
+   "tags": [
+    "#футбол"
+   ],
+   "added": "2026-11-16",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=5+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F+%D0%BD%D0%B0+%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B5+%C2%AB%D0%90%D1%80%D0%B5%D0%BD%D1%8B%C2%BB+%D1%81%D0%BE%D1%81%D1%82%D0%BE%D0%B8%D1%82%D1%81%D1%8F+%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B9+%D0%BC%D0%B0%D1%82%D1%87+1%2F8+%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%B0+%D0%9B%D0%B8%D0%B3%D0%B8+%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2+%D0%A3%D0%95%D0%A4%D0%90%21&dates=20261205%2F20261206&details=https%3A%2F%2Ft.me%2Fsemeynewskzz%2F9633&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
+  },
+  {
+   "title": "5 желтоқсан күні «Арена» спорт кешенінде УЕФА Чемпиондар лигасының 1/8 финалындағы қарымта кездесу өтеді!",
+   "url": "https://t.me/abaiaqparatkz/34842",
+   "source": "@abaiaqparatkz",
+   "category": "анонс",
+   "day": "2026-12-05",
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/AShmZPiLWSzENbzFHLmjBhxZ9zo5XNCTJV4MwXVg_eDOanC_jnXWG4bsgzJE45SuNX9CeaVBI0IJu1QMhLb0tOFzrEFq8KgdL-sm1F1DNCR3cMJrrr2jFPlmF28CvzjC-oqCzFukQxAYEo36LqG0AFBf7RKU52S03aFSsrMACVwdWTHJ28pdWF7caq8q4M6Fr5-RYlV1RcRWTKtDndNnczL9aLQqleVDrnDScncBp5iDYbRJZgqHR44gyTAvoBmSdO8bvxWDQe8J1FE4j_DiPFXJKqJSAIX3qbhYDX8ves8zl2UC3H9xNW0z5-ubgCM3HuK9rDVbtaAi8mfRhh9rYw.jpg",
+   "deadline": null,
+   "id": "c18ee55d75ac",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-11-16",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=5+%D0%B6%D0%B5%D0%BB%D1%82%D0%BE%D2%9B%D1%81%D0%B0%D0%BD+%D0%BA%D2%AF%D0%BD%D1%96+%C2%AB%D0%90%D1%80%D0%B5%D0%BD%D0%B0%C2%BB+%D1%81%D0%BF%D0%BE%D1%80%D1%82+%D0%BA%D0%B5%D1%88%D0%B5%D0%BD%D1%96%D0%BD%D0%B4%D0%B5+%D0%A3%D0%95%D0%A4%D0%90+%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B4%D0%B0%D1%80+%D0%BB%D0%B8%D0%B3%D0%B0%D1%81%D1%8B%D0%BD%D1%8B%D2%A3+1%2F8+%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B+%D2%9B%D0%B0%D1%80%D1%8B%D0%BC%D1%82%D0%B0+%D0%BA%D0%B5%D0%B7%D0%B4%D0%B5%D1%81%D1%83+%D3%A9%D1%82%D0%B5%D0%B4%D1%96%21&dates=20261205%2F20261206&details=https%3A%2F%2Ft.me%2Fabaiaqparatkz%2F34842&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
   },
   {
    "title": "Семейчанок приглашают на День открытых дверей в онкоцентр",
@@ -1242,6 +1298,24 @@
    "tags": [
     "#город"
    ],
+   "added": "2026-11-16",
+   "calendar_url": null
+  },
+  {
+   "title": "На выставку декоративно-прикладного искусства \"Тепло наших рук\" приглашают семейчан",
+   "url": "https://www.arnapress.kz/kultura/242612-na-vystavku-dekorativno-prikladnogo-iskusstva-teplo-nashih-ruk-priglashayut-semeychan",
+   "source": "Arnapress",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://arnapress.kz/storage/articles/converted/17948258809404176_w.jpg",
+   "deadline": null,
+   "id": "841fb17cc1a7",
+   "emoji": "🔸",
+   "tags": [],
    "added": "2026-11-16",
    "calendar_url": null
   }

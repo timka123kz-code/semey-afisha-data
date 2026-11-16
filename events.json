@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-15T07:03+05:00",
+ "updated": "2026-11-16T07:03+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1223,6 +1223,26 @@
     "#город"
    ],
    "added": "2026-11-15",
+   "calendar_url": null
+  },
+  {
+   "title": "Справедливости ради стоит отметить, что и старые спортплощадки с трубами долгое время были местами притяжения для…",
+   "url": "https://t.me/abainewskz/21825",
+   "source": "@abainewskz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "afaeccda4577",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-16",
    "calendar_url": null
   }
  ],

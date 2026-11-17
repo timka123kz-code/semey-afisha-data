@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-16T19:03+05:00",
+ "updated": "2026-11-17T07:05+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1317,6 +1317,26 @@
    "emoji": "🔸",
    "tags": [],
    "added": "2026-11-16",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее построят новый жилой микрорайон на территории более 1000 гектаров",
+   "url": "https://semeyinfo.kz/news/v-semee-postroyat-novyj-zhiloj-mikrorajon-na-territorii-bolee-1000-gektarov",
+   "source": "Semey Info",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "5cb84a5c4623",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-17",
    "calendar_url": null
   }
  ],

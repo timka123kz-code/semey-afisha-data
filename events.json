@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-17T19:04+05:00",
+ "updated": "2026-11-18T19:02+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -27,6 +27,26 @@
    ],
    "added": "first",
    "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D3%A8%D0%BD%D0%B5%D1%80+%D2%9A%D1%8B%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%8B+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9+%D2%9B%D0%B0%D0%BB%D0%B0%D1%81%D1%8B%D0%BD%D0%B4%D0%B0&dates=20261124T130000Z%2F20261124T150000Z&details=https%3A%2F%2Ftopbilet.kz%2Fru%2Fevent%2Fner-yrandary-semey-alasynda-5&location=%D0%A2%D0%B5%D0%B0%D1%82%D1%80+%D0%B8%D0%BC.+%D0%90%D0%B1%D0%B0%D1%8F"
+  },
+  {
+   "title": "Футзал: Семей — Каспий",
+   "url": "http://ticketon.kz/event/fk-semey-fk-kaspiy-2026",
+   "source": "МФК «Семей»",
+   "category": "футзал",
+   "day": "2026-11-28",
+   "time": "17:00",
+   "place": "Абай Арена",
+   "price": null,
+   "extra": "Суперлига 2026/27· 15-й тур",
+   "image": null,
+   "deadline": null,
+   "id": "be266aa17228",
+   "emoji": "⚽",
+   "tags": [
+    "#футзал"
+   ],
+   "added": "2026-11-18",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB%3A+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9+%E2%80%94+%D0%9A%D0%B0%D1%81%D0%BF%D0%B8%D0%B9&dates=20261128T120000Z%2F20261128T140000Z&details=http%3A%2F%2Fticketon.kz%2Fevent%2Ffk-semey-fk-kaspiy-2026&location=%D0%90%D0%B1%D0%B0%D0%B9+%D0%90%D1%80%D0%B5%D0%BD%D0%B0"
   },
   {
    "title": "Тройной стендап",
@@ -68,6 +88,26 @@
    "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D2%9A%D0%B0%D1%81%D1%8B%D0%BC-%D0%96%D0%BE%D0%BC%D0%B0%D1%80%D1%82+%D0%A2%D0%BE%D2%9B%D0%B0%D0%B5%D0%B2%D2%9B%D0%B0+2026+%D0%B6%D1%8B%D0%BB%D1%8B+29+%D2%9B%D0%B0%D1%80%D0%B0%D1%88%D0%B0%D0%B4%D0%B0+%D3%A9%D1%82%D0%B5%D1%82%D1%96%D0%BD+%D0%B1%D0%B0%D1%80%D0%BB%D1%8B%D2%9B+%D0%B4%D0%B5%D2%A3%D0%B3%D0%B5%D0%B9%D0%B4%D0%B5%D0%B3%D1%96+%D0%BC%D3%99%D1%81%D0%BB%D0%B8%D1%85%D0%B0%D1%82+%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3+%D0%BA%D0%B5%D0%B7%D0%B5%D0%BA%D1%82%D0%B5%D0%BD+%D1%82%D1%8B%D1%81+%D1%81%D0%B0%D0%B9%D0%BB%D0%B0%D1%83%D1%8B%D0%BD%D0%B0%E2%80%A6&dates=20261129%2F20261130&details=https%3A%2F%2Ft.me%2Fabaiaqparatkz%2F34852&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
   },
   {
+   "title": "Футзал: Семей — Каспий",
+   "url": "http://ticketon.kz/event/fk-semey-fk-kaspiy-2026",
+   "source": "МФК «Семей»",
+   "category": "футзал",
+   "day": "2026-11-29",
+   "time": "17:00",
+   "place": "Абай Арена",
+   "price": null,
+   "extra": "Суперлига 2026/27· 16-й тур",
+   "image": null,
+   "deadline": null,
+   "id": "2786c9452158",
+   "emoji": "⚽",
+   "tags": [
+    "#футзал"
+   ],
+   "added": "2026-11-18",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB%3A+%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9+%E2%80%94+%D0%9A%D0%B0%D1%81%D0%BF%D0%B8%D0%B9&dates=20261129T120000Z%2F20261129T140000Z&details=http%3A%2F%2Fticketon.kz%2Fevent%2Ffk-semey-fk-kaspiy-2026&location=%D0%90%D0%B1%D0%B0%D0%B9+%D0%90%D1%80%D0%B5%D0%BD%D0%B0"
+  },
+  {
    "title": "5 декабря на паркете «Арены» состоится ответный матч 1/8 финала Лиги чемпионов УЕФА!",
    "url": "https://t.me/semeynewskzz/9633",
    "source": "@semeynewskzz",
@@ -104,6 +144,26 @@
    "tags": [],
    "added": "2026-11-16",
    "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=5+%D0%B6%D0%B5%D0%BB%D1%82%D0%BE%D2%9B%D1%81%D0%B0%D0%BD+%D0%BA%D2%AF%D0%BD%D1%96+%C2%AB%D0%90%D1%80%D0%B5%D0%BD%D0%B0%C2%BB+%D1%81%D0%BF%D0%BE%D1%80%D1%82+%D0%BA%D0%B5%D1%88%D0%B5%D0%BD%D1%96%D0%BD%D0%B4%D0%B5+%D0%A3%D0%95%D0%A4%D0%90+%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B4%D0%B0%D1%80+%D0%BB%D0%B8%D0%B3%D0%B0%D1%81%D1%8B%D0%BD%D1%8B%D2%A3+1%2F8+%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B+%D2%9B%D0%B0%D1%80%D1%8B%D0%BC%D1%82%D0%B0+%D0%BA%D0%B5%D0%B7%D0%B4%D0%B5%D1%81%D1%83+%D3%A9%D1%82%D0%B5%D0%B4%D1%96%21&dates=20261205%2F20261206&details=https%3A%2F%2Ft.me%2Fabaiaqparatkz%2F34842&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
+  },
+  {
+   "title": "ФК «Семей» - ФК «Атлетик»",
+   "url": "http://ticketon.kz/event/fk-semey-fk-atletik-2026",
+   "source": "Абай Арена",
+   "category": "спорт",
+   "day": "2026-12-05",
+   "time": null,
+   "place": "Абай Арена, мкр. Карагайлы, 39",
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "dd7c5c72ca97",
+   "emoji": "🏃",
+   "tags": [
+    "#спорт"
+   ],
+   "added": "2026-11-18",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A4%D0%9A+%C2%AB%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%C2%BB+-+%D0%A4%D0%9A+%C2%AB%D0%90%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%C2%BB&dates=20261205%2F20261206&details=http%3A%2F%2Fticketon.kz%2Fevent%2Ffk-semey-fk-atletik-2026&location=%D0%90%D0%B1%D0%B0%D0%B9+%D0%90%D1%80%D0%B5%D0%BD%D0%B0%2C+%D0%BC%D0%BA%D1%80.+%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%B9%D0%BB%D1%8B%2C+39"
   },
   {
    "title": "Семейчанок приглашают на День открытых дверей в онкоцентр",
@@ -1355,6 +1415,45 @@
    "emoji": "🔸",
    "tags": [],
    "added": "2026-11-17",
+   "calendar_url": null
+  },
+  {
+   "title": "Откройте раздел «Транспорт», введите номер маршрута — и сервис покажет схему движения и автобусы, которые сейчас…",
+   "url": "https://t.me/abainewskz/21838",
+   "source": "@abainewskz",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/f17Z6pOf--oNZZUYdRh-VfcH52wreLvsbjCPRzNmNgpBWbP9B_cmUm41eDejeSqM5e44uLABKwRtAJKABKcJ5jrJj6Iu8TUa2xabmILRgUB4iJSFZqJaIR2XpHI-HnLGHW24b4p73ubYl_DPYfbB8RDoZ43iDkbQsm-UcShTpH_WR-1GQmPui_mZj2rFimnPofjXifpFGjKgZvRzFj5GLcRzMTo4yuvbDzECsk7uIevflsaYUPms9bkuDNUcQDS0ymKyZUlSzhhPutUUp7_1Q89S3Y7AgCbuOnuTYU_tBilfNZz1Pmm20AdOMIUSWbtL1eSVfuVx_cQc1PTqHzWflw.jpg",
+   "deadline": null,
+   "id": "ebc8b0bb1933",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-11-18",
+   "calendar_url": null
+  },
+  {
+   "title": "Мәдениет және ақпарат министрі Арман Қырықбаев балаларға әлеуметтік желіде тіркелуге тыйым салатын заң жобасын…",
+   "url": "https://t.me/abaiaqparatkz/34874",
+   "source": "@abaiaqparatkz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "f5460eb5a399",
+   "emoji": "🏙",
+   "tags": [
+    "#город",
+    "#детям"
+   ],
+   "added": "2026-11-18",
    "calendar_url": null
   }
  ],

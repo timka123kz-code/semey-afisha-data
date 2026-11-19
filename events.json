@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-19T07:01+05:00",
+ "updated": "2026-11-19T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1469,6 +1469,105 @@
    "image": "https://semeyinfo.kz/storage/news_images/ad077bda-e33b-46ac-9f98-b0c78a9a3b87.webp",
    "deadline": null,
    "id": "9c9345c0ebbf",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-11-19",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее строят мост, который изменит движение в городе",
+   "url": "https://rus.baq.kz/v-semee-stroyat-most-kotoryy-izmenit-dvizhenie-v-gorode-320054959/",
+   "source": "BAQ.KZ",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "9ea102d2606e",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-19",
+   "calendar_url": null
+  },
+  {
+   "title": "В Семее строят новый пешеходный мост через железнодорожные пути",
+   "url": "https://rus.baq.kz/v-semee-stroyat-novyy-peshehodnyy-most-cherez-zheleznodorozhnye-puti-320054896/",
+   "source": "BAQ.KZ",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "d9685228a3a9",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-19",
+   "calendar_url": null
+  },
+  {
+   "title": "🚆На территории железнодорожного вокзала Семея строят пешеходный мост",
+   "url": "https://semeyinfo.kz/news/na-territorii-zheleznodorozhnogo-vokzala-semeya-stroyat-peshehodnyj-most",
+   "source": "Semey Info",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "026c3a548222",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-19",
+   "calendar_url": null
+  },
+  {
+   "title": "В областном центре обещают наконец сделать дворец школьников на оживлённой кольцевой развязке левобережья доступным…",
+   "url": "https://t.me/abainewskz/21842",
+   "source": "@abainewskz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "3965027a3da3",
+   "emoji": "🏙",
+   "tags": [
+    "#город",
+    "#детям"
+   ],
+   "added": "2026-11-19",
+   "calendar_url": null
+  },
+  {
+   "title": "Ждём от сегодняшней встречи такой же зрелищной игры и красивых голов!",
+   "url": "https://t.me/fcsemey/983",
+   "source": "@fcsemey",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/hLDEKbS0pR5NU6E_DfObyrJyiad115rKyLEJ4vFV6HynqA95orrMK9RmRk5T1Q4E9Uz1ESCcQLBO2bZnofdDQbGd9caYGKycT-YWMAeGlenGOdivceiEipcQhYzbXe6gCKInhcbaMbjSyj4tUI68AfWS60hxjSqnHYZbLMIAn9mtUCnBmi2fcJed7NlpTtiM43jSbADof6jyumCpeaGPn4XCKG_pG3Lbu62rPdVaR6zxap1XnDNXVN24PBAXevYpoowBmgAYxf7qbYglq4CsJWF1n9hRe8ynS61wxWHGAR9HmWBCWA78FXbVWY1Z8IvZsI4l1FhrT00z9IlM3jiJ3A.jpg",
+   "deadline": null,
+   "id": "1444b5fc319d",
    "emoji": "🔸",
    "tags": [],
    "added": "2026-11-19",

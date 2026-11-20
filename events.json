@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-20T07:01+05:00",
+ "updated": "2026-11-20T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1586,6 +1586,26 @@
    "image": null,
    "deadline": null,
    "id": "f8b92affb86a",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-20",
+   "calendar_url": null
+  },
+  {
+   "title": "В селе Амангельды Жарминского района дан старт реализации крупного инвестиционного проекта в сфере молочного…",
+   "url": "https://t.me/semeynewskzz/9649",
+   "source": "@semeynewskzz",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/lF6xeiJew8hOm_TT8EbhWyx7qdf5PX4Tgw1U5MpoU1IUAi78reO31cotkX5fIsyUryZ8ZvpHH0Qc0Q5ZYjQ4NeQbdvaXsLb7BqluO7xf9wfoc0ix8Z_liAtUf2pJjAGXClZgDi7otDs0soUqmV0uC1D3d8nuSojiNwRuTkArwPF7qgcuYv24p3Ksa0mejw-5JfSkwX1huJVuMZqmK6IvaA0zKJgNuvRZeOYsVSKths_RYSserQOJKPJdk0AAOaZVFNIdgE5lfAthkdkvwHZJSqxMEIMyRuh8v1uLFdmQLbpLR7TpHqqWoVq2RqcQ-YfH4HLKiUf_GZtQEXQl-u1OZg.jpg",
+   "deadline": null,
+   "id": "d8b8a56f7327",
    "emoji": "🏙",
    "tags": [
     "#город"

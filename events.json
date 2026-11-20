@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-19T19:01+05:00",
+ "updated": "2026-11-20T07:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1571,6 +1571,26 @@
    "emoji": "🔸",
    "tags": [],
    "added": "2026-11-19",
+   "calendar_url": null
+  },
+  {
+   "title": "В 5 школах города Семей при поддержке фонда «Самұрық-Қазына» откроются кабинеты инклюзивного образования.",
+   "url": "https://semeyinfo.kz/news/v-5-shkolah-goroda-semej-pri-podderzhke-fonda-samuryq-qazyna-otkroyutsya-kabinety-inklyuzivnogo-obrazovaniya",
+   "source": "Semey Info",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "f8b92affb86a",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-20",
    "calendar_url": null
   }
  ],

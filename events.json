@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-25T00:00+05:00",
+ "updated": "2026-11-25T19:01+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -143,6 +143,44 @@
    ],
    "added": "2026-11-18",
    "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A4%D0%9A+%C2%AB%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%C2%BB+-+%D0%A4%D0%9A+%C2%AB%D0%90%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%C2%BB&dates=20261205%2F20261206&details=http%3A%2F%2Fticketon.kz%2Fevent%2Ffk-semey-fk-atletik-2026&location=%D0%90%D0%B1%D0%B0%D0%B9+%D0%90%D1%80%D0%B5%D0%BD%D0%B0%2C+%D0%BC%D0%BA%D1%80.+%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%B9%D0%BB%D1%8B%2C+39"
+  },
+  {
+   "title": "Футзалдан УЕФА Чемпиондар лигасының 1/8 финалында «Семей» украиналық «Атлетикті» 2:3 есебімен жеңді.",
+   "url": "https://t.me/abaiaqparatkz/34971",
+   "source": "@abaiaqparatkz",
+   "category": "анонс",
+   "day": "2026-12-05",
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/q5ezdlDLoGXZymls0pu4dtBTtywwJGED3sumN4xsUydnk325lQrQbRYm97Lfu1QR7Fxp_2nxP5tzjJkB1ZF09eae-q-IRn8QVSwwCYTRKw93xzTPmxYdGZH4YM4UWcE7PW6Eskw4dOYg2AxMe-XitdP_NY304vEZ-86tcYsNTbdRfxUkiGvCwx5E2rti3Uu6tPYN4K-8hOWlkkK2oF6sTqYX4AC0u5KDmSC9xpBcb4YLKwlFdztl3JGUe8o_pNT7Y2jXUeXBUlqi1QQ0Ai9Euy9IXYKoW-qTgaPPmrCXnCernmn7eh3oxPEQsCgJ_1ybECk1_ZKKCp_kLwnZct-BrQ.jpg",
+   "deadline": null,
+   "id": "6884df07770e",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-11-25",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB%D0%B4%D0%B0%D0%BD+%D0%A3%D0%95%D0%A4%D0%90+%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B4%D0%B0%D1%80+%D0%BB%D0%B8%D0%B3%D0%B0%D1%81%D1%8B%D0%BD%D1%8B%D2%A3+1%2F8+%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8B%D0%BD%D0%B4%D0%B0+%C2%AB%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%C2%BB+%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0%D0%BB%D1%8B%D2%9B+%C2%AB%D0%90%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D1%82%D1%96%C2%BB+2%3A3+%D0%B5%D1%81%D0%B5%D0%B1%D1%96%D0%BC%D0%B5%D0%BD+%D0%B6%D0%B5%D2%A3%D0%B4%D1%96.&dates=20261205%2F20261206&details=https%3A%2F%2Ft.me%2Fabaiaqparatkz%2F34971&location=%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
+  },
+  {
+   "title": "Общий прикол",
+   "url": "https://afisha.yandex.kz/semey/standup/obshii-prikol",
+   "source": "Яндекс Афиша",
+   "category": "стендап",
+   "day": "2026-12-05",
+   "time": "19:00",
+   "place": "Кофеман",
+   "price": "от 3 000 тнг",
+   "extra": null,
+   "image": "https://avatars.mds.yandex.net/get-afishanew/14837015/b0ab89bd3697dd2a0ec559bbc5f7e295/1200x628_wmark_tickets",
+   "deadline": null,
+   "id": "4120387037ec",
+   "emoji": "😂",
+   "tags": [
+    "#стендап"
+   ],
+   "added": "2026-11-25",
+   "calendar_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%D0%9E%D0%B1%D1%89%D0%B8%D0%B9+%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D0%BB&dates=20261205T140000Z%2F20261205T160000Z&details=https%3A%2F%2Fafisha.yandex.kz%2Fsemey%2Fstandup%2Fobshii-prikol&location=%D0%9A%D0%BE%D1%84%D0%B5%D0%BC%D0%B0%D0%BD"
   },
   {
    "title": "ARB LEAGUE × ALASH PRIDE",
@@ -1630,6 +1668,44 @@
     "#полезное"
    ],
    "added": "2026-11-24",
+   "calendar_url": null
+  },
+  {
+   "title": "💬В Абайском районе построят гостиницу и модернизируют систему теплоснабжения",
+   "url": "https://semeyinfo.kz/news/v-abajskom-rajone-postroyat-gostinitsu-i-moderniziruyut-sistemu-teplosnabzheniya",
+   "source": "Semey Info",
+   "category": "город",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": null,
+   "deadline": null,
+   "id": "ade38f0fc6d8",
+   "emoji": "🏙",
+   "tags": [
+    "#город"
+   ],
+   "added": "2026-11-25",
+   "calendar_url": null
+  },
+  {
+   "title": "Қала дамуына үлес қосып жүрген белсенді, талантты, еңбекқор және бастамашыл жастарды анықтау мақсатында «Жыл таңдауы…",
+   "url": "https://t.me/semeyakimdigi/23782",
+   "source": "@semeyakimdigi",
+   "category": "анонс",
+   "day": null,
+   "time": null,
+   "place": null,
+   "price": null,
+   "extra": null,
+   "image": "https://cdn4.telesco.pe/file/GepsXGoZR1DDXHVCEGXsRiKL61epKiy-WvVZ1x9hLIG4_vvuwNR1eYJvWtLeu2hKof7vKQU3U5crxheSGOfpyZi2QMtxQ_dT9HP_CG_WFspPtf9dh497jujilg7f4-oyrdi8uQQS0HtPmcuyIAHacUXL1VMZLbTZkFnsytSzwdEUP2JaDZpiyRtJyyv2-L5Pry3aSUI8E4W2L2OXZG9nCjTlnBWjIniOGoNs2DXpA7edOzpHsfLLxwCsAZ_2TDCuvj04qqnB33_EMULkRu0y3L0hjKYlIiNwCVLZBnIVcCbxnV_saLCpT9wu8MGm0THgA9juPq76fuJMODleVMHjNg.jpg",
+   "deadline": null,
+   "id": "bc475109d584",
+   "emoji": "🔸",
+   "tags": [],
+   "added": "2026-11-25",
    "calendar_url": null
   }
  ],

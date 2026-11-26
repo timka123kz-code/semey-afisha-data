@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-25T19:01+05:00",
+ "updated": "2026-11-26T07:02+05:00",
  "city": "Семей",
  "links": {
   "bot": "https://t.me/Semeyday_bot?start=add",
@@ -1711,19 +1711,39 @@
  ],
  "films": [
   {
-   "title": "Новые похождения Клиффа Бута",
-   "url": "https://www.kinoafisha.info/movies/8381541/",
+   "title": "Соңыра",
+   "url": "https://kz.kinoafisha.info/semey/movies/8389233/",
    "first_day": null,
-   "release": "2026-11-25",
+   "release": null,
    "genres": [
-    "комедия",
-    "криминал"
+    "драма"
    ],
    "age": null
   },
   {
-   "title": "Рокки — это я",
-   "url": "https://www.kinoafisha.info/movies/8376694/",
+   "title": "Психолог",
+   "url": "https://kz.kinoafisha.info/semey/movies/8389502/",
+   "first_day": null,
+   "release": "2026-11-26",
+   "genres": [
+    "комедия"
+   ],
+   "age": null
+  },
+  {
+   "title": "Голодные игры: Рассвет Жатвы",
+   "url": "https://kz.kinoafisha.info/semey/movies/8377209/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "фантастика",
+    "боевик"
+   ],
+   "age": null
+  },
+  {
+   "title": "Ұмытпа",
+   "url": "https://kz.kinoafisha.info/semey/movies/8389509/",
    "first_day": null,
    "release": "2026-11-26",
    "genres": [
@@ -1732,30 +1752,18 @@
    "age": null
   },
   {
-   "title": "Колотун и Волшебное королевство",
-   "url": "https://www.kinoafisha.info/movies/8373540/",
+   "title": "Бажа кинода",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388694/",
    "first_day": null,
-   "release": "2026-11-26",
+   "release": null,
    "genres": [
-    "фэнтези",
-    "приключения"
+    "комедия"
    ],
    "age": null
   },
   {
-   "title": "Шкатулка проклятия. Зло внутри",
-   "url": "https://www.kinoafisha.info/movies/8388457/",
-   "first_day": null,
-   "release": "2026-11-26",
-   "genres": [
-    "ужасы",
-    "детектив"
-   ],
-   "age": null
-  },
-  {
-   "title": "Любовь моя",
-   "url": "https://www.kinoafisha.info/movies/8385386/",
+   "title": "Тоқылдақ",
+   "url": "https://kz.kinoafisha.info/semey/movies/8389501/",
    "first_day": null,
    "release": "2026-11-26",
    "genres": [
@@ -1764,30 +1772,18 @@
    "age": null
   },
   {
-   "title": "Идеальный шторм",
-   "url": "https://www.kinoafisha.info/movies/8386231/",
+   "title": "Шнур",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388840/",
    "first_day": null,
    "release": "2026-11-26",
    "genres": [
-    "боевик",
-    "приключения"
-   ],
-   "age": null
-  },
-  {
-   "title": "Кибер-девушки",
-   "url": "https://www.kinoafisha.info/movies/8388831/",
-   "first_day": null,
-   "release": "2026-11-26",
-   "genres": [
-    "боевик",
-    "приключения"
+    "драма"
    ],
    "age": null
   },
   {
    "title": "Дворняшка",
-   "url": "https://www.kinoafisha.info/movies/8388187/",
+   "url": "https://kz.kinoafisha.info/semey/movies/8388187/",
    "first_day": null,
    "release": "2026-11-26",
    "genres": [
@@ -1797,12 +1793,45 @@
    "age": null
   },
   {
-   "title": "Шнур",
-   "url": "https://www.kinoafisha.info/movies/8388840/",
+   "title": "Как ограбить банк",
+   "url": "https://kz.kinoafisha.info/semey/movies/8381665/",
    "first_day": null,
-   "release": "2026-11-26",
+   "release": null,
    "genres": [
+    "боевик",
+    "криминал"
+   ],
+   "age": null
+  },
+  {
+   "title": "Скрудж",
+   "url": "https://kz.kinoafisha.info/semey/movies/8383674/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "фэнтези",
     "драма"
+   ],
+   "age": null
+  },
+  {
+   "title": "Турбозавры. Суперфильм",
+   "url": "https://kz.kinoafisha.info/semey/movies/8382904/",
+   "first_day": null,
+   "release": null,
+   "genres": [
+    "анимация"
+   ],
+   "age": null
+  },
+  {
+   "title": "Ведьмин лес",
+   "url": "https://www.kinoafisha.info/movies/8378465/",
+   "first_day": null,
+   "release": "2026-12-03",
+   "genres": [
+    "боевик",
+    "приключения"
    ],
    "age": null
   },
@@ -1857,6 +1886,37 @@
    "genres": [
     "биография",
     "криминал"
+   ],
+   "age": null
+  },
+  {
+   "title": "Мстители: Доктор Дум",
+   "url": "https://www.kinoafisha.info/movies/8367441/",
+   "first_day": null,
+   "release": "2026-12-17",
+   "genres": [
+    "боевик"
+   ],
+   "age": null
+  },
+  {
+   "title": "Дюна: Часть третья",
+   "url": "https://www.kinoafisha.info/movies/8376367/",
+   "first_day": null,
+   "release": "2026-12-17",
+   "genres": [
+    "приключения"
+   ],
+   "age": null
+  },
+  {
+   "title": "ДримКвил. Корпорация грез",
+   "url": "https://www.kinoafisha.info/movies/8388973/",
+   "first_day": null,
+   "release": "2026-12-17",
+   "genres": [
+    "детектив",
+    "фантастика"
    ],
    "age": null
   }
